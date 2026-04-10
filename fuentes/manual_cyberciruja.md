@@ -51,7 +51,11 @@ Licencia: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es) — p
 
 \newpage
 
-# ¿Qué es un Cyberciruja?
+# PARTE 1 — El movimiento Cyberciruja {.unnumbered}
+
+\newpage
+
+# ¿Qué es Cybercirujas?
 
 ## El cirujeo como punto de partida
 
@@ -59,17 +63,27 @@ En Argentina, *cirujear* es recuperar lo que otros descartan. Es una práctica p
 
 El movimiento Cybercirujas nació entre 2020 y 2021, en el contexto de la pandemia, cuando quedó en evidencia la magnitud de la brecha digital. Estudiantes sin computadora para clases virtuales. Familias con una sola máquina para cinco personas. Organizaciones barriales sin infraestructura tecnológica básica. La necesidad ya existía; la crisis la hizo visible.
 
-## Tres vertientes que se encontraron
+## Los orígenes: tres personas, tres trayectorias
 
-El movimiento no nació de un plan maestro. Surgió de la confluencia de trayectorias distintas que compartían una intuición común: que la tecnología debería ser de todos, y que para eso hacía falta actuar.
+El surgimiento de Cybercirujas no responde a un origen único y planificado, sino a la confluencia de múltiples trayectorias que encontraron un cauce común. Al menos tres vertientes distintas —aunque desarrolladas en paralelo— compartían una sensibilidad subyacente y terminaron encontrándose.
 
-**La vertiente ideológica-cultural** viene del activismo en software libre. Entender que el código abierto no es solo una preferencia técnica sino una postura política: que los derechos de autor pueden ser jaulas, y que compartir el conocimiento es un acto de liberación. Esta vertiente aportó al movimiento su marco conceptual más profundo: la tecnología como campo de disputa.
+**Sergio Rondán ("Soldan")** venía del activismo en software libre. Editor de la revista *Replay* (dedicada a la investigación y arqueología de videojuegos regionales y hardware desarrollado en Argentina), ex docente de primaria en Buenos Aires y obrero informático en el sector privado. Su punto de partida fue el descubrimiento de la dimensión política del software libre: entender que "los derechos de autor son jaulas" y que la verdadera potencia residía en compartir el conocimiento.
 
-**La vertiente pedagógica-práctica** nace de la experiencia de enseñar haciendo. Del aprendizaje por el error, de la filosofía del "perdido por perdido": una computadora anegada o descartada es una oportunidad de experimentar sin miedo. Esta vertiente instaló en Cybercirujas el ethos del taller, del cacharreo colectivo, de aprender con las manos.
+En 2019, junto al colectivo de trabajadores del Teatro Mandril de Buenos Aires, Soldan organizó el **Club de Cybercirujeo**: una iniciativa para recuperar computadoras antiguas y crear una sala de videojuegos retro de acceso comunitario. El punto de partida fue un evento tan sencillo como fortuito —la recuperación de una computadora 486 desechada en la vía pública— que sentó un precedente: combinar el interés lúdico por el retrogaming con la práctica concreta de la recuperación de hardware.
 
-**La vertiente territorial-activista** viene del trabajo comunitario: detectar la brecha digital en la militancia barrial y buscar los medios concretos para saldarla. Esta perspectiva ancló al movimiento en una demanda social real. No se trata de tecnología por la tecnología, sino de tecnología para las personas y las comunidades.
+**Nicolás Wolovick** llegó al tema desde una dirección completamente distinta: la necesidad y el azar. Docente e investigador en la FAMAF (Facultad de Matemática, Astronomía, Física y Computación de la UNC), su iniciación en la reparación de hardware no fue ideológica sino práctica: una inundación en 2015 lo obligó a desarmar dos computadoras anegadas. Ese evento instaló en él un ethos de "perdido por perdido" que habilitaba la experimentación sin miedo.
 
-La pandemia de 2020 fue el catalizador que hizo converger estas tres vertientes. Un grupo de Telegram, difusión en redes sociales, una primera aparición pública en Buenos Aires en 2021 amplificada mediáticamente. Cybercirujas se volvió visible como movimiento social.
+De esa experiencia surgió la idea de los **talleres de desarmado y armado**, y una pedagogía de aprendizaje con las manos que llevó incluso a sus clases universitarias: proponer a estudiantes "scrapear basura" —recuperar componentes como parlantes de televisores desechados— para usarlos en proyectos académicos. Las bases de una práctica que el movimiento luego haría colectiva.
+
+**Paula Nieto**, docente e investigadora del CONICET en la UNC, llegó al movimiento desde el activismo territorial. Militante en la asamblea barrial de Campo de la Ribera (un barrio popular de Córdoba), su punto de entrada no fue técnico ni filosófico: fue la constatación directa de la brecha digital en su trabajo comunitario. Antes de saber reparar computadoras, su rol fue el de articuladora: "buscaba computadoras viejas para llevarlas a arreglar y llevarlas a la asamblea. Yo no sabía arreglar las compus, pero conocía gente que sí."
+
+Esta perspectiva ancló el movimiento en una demanda social concreta desde el primer día: no se trata de tecnología por la tecnología, sino de tecnología para las personas y las comunidades.
+
+## La pandemia como catalizador
+
+El catalizador que articuló estas tres vertientes fue la pandemia de 2020. La crisis evidenció la necesidad de cómputo a escala masiva. Nieto contactó a Wolovick buscando computadoras para la asamblea barrial; Wolovick y Soldan, que ya se conocían, formalizaron su colaboración. De ese diálogo surgió la idea de tejer redes de contacto y el modelo organizativo de "células" para actuar en los territorios.
+
+La creación de un grupo de Telegram y la difusión en redes sociales atrajeron a una comunidad diversa. La primera manifestación pública del movimiento, en 2021 en Buenos Aires, fue amplificada mediáticamente y consolidó el nacimiento de Cybercirujas como movimiento social visible.
 
 ## Qué nos mueve: valores del movimiento
 
@@ -85,11 +99,25 @@ La pandemia de 2020 fue el catalizador que hizo converger estas tres vertientes.
 
 ## Quiénes somos hoy
 
-En 2024 se realizó el primer Censo Nacional Cyberciruja: unas 307 personas se autopercibiron parte del movimiento. Las principales concentraciones están en el AMBA (Buenos Aires y conurbano), Córdoba, provincia de Buenos Aires, Santa Fe, y células más pequeñas en Chubut, Río Negro, Posadas y otras ciudades. También hay cybercirujas en otros países.
+En 2024 se realizó el primer Censo Nacional Cyberciruja: unas 307 personas se auto-percibieron parte del movimiento. La distribución es marcadamente federal:
 
-El 57% milita también en otras organizaciones: software libre, partidos políticos, espacios comunitarios. Cybercirujas no es una isla: es un nodo en una red más amplia de transformación social.
+| Región | Participantes aprox. |
+|---|---|
+| Ciudad de Buenos Aires y Conurbano | ~120 |
+| Córdoba | ~55 |
+| Provincia de Buenos Aires | ~41 |
+| Santa Fe | ~25 |
+| Otros países | ~25 |
+
+Además de esos nodos principales, el censo confirma la existencia de células activas en Chubut, Río Negro, La Plata, Posadas y otras ciudades. El movimiento también tiene presencia internacional: Uruguay, Italia (en alianza editorial con el colectivo hacktivista que coedita *Zona Warpa*) y Colombia (participación en el Encuentro por el Derecho a Reparar en diciembre de 2025).
+
+El 57% de los participantes milita también en otras organizaciones: informática y software libre, partidos políticos, espacios comunitarios. Cybercirujas no es una isla: es un nodo en una red más amplia de transformación social.
 
 Una mayoría (265 de 307) considera insostenible el modelo industrial de fabricación y descarte constante de computadoras. Y la motivación práctica central es clara: ayudar a reparar y recircular hardware como acto de resistencia al consumo masivo.
+
+En términos concretos, en 2024 la red entregó **134 computadoras** y **17 dispositivos móviles y tablets** a personas y organizaciones que los necesitaban. Ese año también se realizaron talleres de "desgooglelización" de celulares, reparatones para mujeres y disidencias, y se publicaron nuevos números de los fanzines del movimiento.
+
+Los Encuentros Federales son el espacio presencial de articulación: Córdoba en noviembre de 2023, Rosario en agosto de 2024, Buenos Aires en agosto de 2025.
 
 \newpage
 
@@ -128,7 +156,7 @@ No necesitás permiso de nadie. No necesitás ser experta en todo. No necesitás
 ## Herramientas de coordinación
 
 - **Telegram:** el canal principal de comunicación del movimiento. Hay grupos locales y uno nacional.
-- **Foro Rebelión Digital:** para discusiones más largas y documentación.
+- **Foro Rebelión Digital:** para discusiones más largas y documentación técnica.
 - **Blog de Cybercirujas:** para publicar balances, experiencias y materiales.
 - **Encuentros Federales:** espacios presenciales de articulación nacional. Se realizaron en Córdoba (2023), Rosario (2024) y Buenos Aires (2025).
 
@@ -139,6 +167,11 @@ Cybercirujas es un movimiento vivo, con debates internos reales. Es bueno saber 
 - **¿Cuánto política?** Hay quienes prefieren un enfoque puramente técnico y quienes entienden que la actividad es inherentemente política. No hay una respuesta única, pero el movimiento tiene una posición clara: el uso de la tecnología no es neutral.
 - **Brecha de género.** El ambiente tecnológico tiende a reproducir dinámicas masculinas y cis-hetero-patriarcales. Hace falta trabajo activo para construir espacios más inclusivos. Algunas células organizaron reparatones específicas para mujeres y disidencias, con excelentes resultados.
 - **Apertura vs. comunidad.** Los eventos abiertos a todos pueden sentirse intimidantes para quien llega sin conocimientos previos. Cuidar el tono, bajar el nivel de los debates online, crear espacios de entrada amigables: todo eso requiere atención permanente.
+- **El rol del referente.** Inevitablemente hay personas que saben más o que ponen más energía. La tensión entre esa asimetría real y el ideal horizontal es una de las más difíciles de gestionar. Lo que aprendimos en los Encuentros Federales: nombrar la tensión, repartir tareas explícitamente, y rotar responsabilidades cuando sea posible.
+
+\newpage
+
+# PARTE 2 — Actividades Cybercirujas {.unnumbered}
 
 \newpage
 
@@ -146,7 +179,7 @@ Cybercirujas es un movimiento vivo, con debates internos reales. Es bueno saber 
 
 ## ¿Qué es una olla popular de hardware?
 
-La olla popular es una práctica surgida de los movimientos sociales argentinos: una cocina comunitaria abierta donde cada quien aporta lo que puede y todos comen. Los Cybercirujas tomamos esa imagen y la trasladamos al hardware.
+La olla popular es una práctica surgida de los movimientos sociales argentinos: una cocina comunitaria abierta donde cada quien aporta lo que puede y todos comen. Los Cybercirujas tomamos esa imagen y la llevamos al hardware.
 
 Una olla popular de hardware es ante todo un espacio de encuentro. No sabemos de antemano qué va a traer la gente, ni cuánta gente va a venir, ni qué conversaciones van a surgir. Esa apertura e imprevisibilidad es parte de su potencia: la olla da lugar a que ocurran cosas que no fueron planificadas.
 
@@ -274,17 +307,7 @@ La diferencia entre variantes es principalmente de convocatoria y de quiénes li
 
 Esto permite anticipar qué herramientas, repuestos y pendrives son necesarios.
 
-**Preparar el kit técnico.** A diferencia de la olla, en la reparatona llevamos todo lo que pueda hacer falta:
-
-- Destornilladores (Phillips y plano, varios tamaños).
-- Aire comprimido o soplador para polvo.
-- Pasta térmica y limpiador de contactos.
-- Módulos de RAM de repuesto.
-- Fuentes de alimentación de repuesto.
-- Cables varios (SATA, alimentación, video).
-- Pendrives con Ventoy + ISOs de Linux (Ubuntu LTS, Mint XFCE, MX Linux/AntiX).
-- Multímetro.
-- Zapatillas y alargues eléctricos.
+**Preparar el kit técnico.** Para saber exactamente qué herramientas físicas y digitales llevar a una reparatona, ver el Capítulo 10: Kit de herramientas.
 
 **Difundir con tiempo.** Aclarar que es con inscripción previa, que no es un servicio técnico, y qué traer (destornillador Phillips, pendrive o disco externo para backup si lo tienen).
 
@@ -297,11 +320,11 @@ Esto permite anticipar qué herramientas, repuestos y pendrives son necesarios.
 
 ### Durante el evento
 
-**Recepción del equipo.** Al llegar, se revisa qué trajo la persona y qué necesita. Si no viene con diagnóstico previo, se hace uno básico en el momento (ver Capítulo 5).
+**Recepción del equipo.** Al llegar, se revisa qué trajo la persona y qué necesita. Si no viene con diagnóstico previo, se hace uno básico en el momento (ver Capítulo 9).
 
 **Trabajo acompañado.** El principio central: no hacerlo por la persona, sino con ella. Explicar qué se está haciendo y por qué. Si el equipo requiere un trabajo largo, se puede dejar en la mesa y la persona se va moviendo por el espacio.
 
-**Instalación de Linux.** Si la persona quiere instalar Linux, se sigue el proceso del Capítulo 6. Siempre con backup previo, siempre explicando qué distro se elige y por qué.
+**Instalación de Linux.** Si la persona quiere instalar Linux, se sigue el proceso del Capítulo 12. Siempre con backup previo, siempre explicando qué distro se elige y por qué.
 
 **No sobreprometer.** Hay equipos que no se pueden recuperar en una tarde, o que requieren repuestos que no tenemos. Es mejor ser honesto que generar una expectativa que no se puede cumplir.
 
@@ -309,7 +332,7 @@ Esto permite anticipar qué herramientas, repuestos y pendrives son necesarios.
 
 - Registrar cuántos equipos pasaron, qué se hizo con cada uno, qué quedó pendiente.
 - Compartir el balance con la red federal.
-- Lo que quede como residuo electrónico: igual que en la olla, no va a la basura común (ver Capítulo 3).
+- Lo que quede como residuo electrónico: igual que en la olla, no va a la basura común (ver Capítulo 15).
 
 ## La reparatona de Córdoba: cómo funciona en la práctica
 
@@ -318,267 +341,6 @@ Esto permite anticipar qué herramientas, repuestos y pendrives son necesarios.
 - Inscripción previa: sí, con formulario.
 - Actividades: diagnóstico + reparación + instalación de Linux (Librebase).
 - Contacto: grupo de Telegram de Cybercirujas Córdoba.
-
-\newpage
-
-# Diagnóstico rápido de una computadora
-
-Esta guía sirve para realizar un **diagnóstico básico de computadoras** durante una Reparatona (ver Capítulo 4).
-
-**Objetivo:** detectar rápidamente si una computadora funciona correctamente, se puede recuperar con cambios simples (RAM, disco, fuente, periféricos), o requiere diagnóstico técnico más avanzado.
-
-## Preparación
-
-Antes de empezar, asegurate de tener:
-
-- Cable de energía
-- Monitor funcional
-- Teclado y mouse
-- Pendrive con Linux (live USB)
-- Destornillador (para abrir si hace falta)
-
-> **Importante:** Abrí la computadora siempre apagada y desenchufada.
-
-## Paso 1: Encendido inicial
-
-Presioná el botón de encendido.
-
-**¿Se encienden LEDs o giran ventiladores?**
-
-- **SÍ** → seguí al Paso 2.
-- **NO** → revisá cable de alimentación y enchufe. Si sigue sin encender, posible problema de fuente de alimentación. Marcá como *posible fallo de fuente*; si hay fuente de repuesto disponible, probala antes de descartarla.
-
-## Paso 2: Video
-
-**¿El monitor muestra imagen?**
-
-- **SÍ** → seguí al Paso 3.
-- **NO** → revisá el cable de video. Probá con otro monitor si es posible. Si sigue sin imagen, posible problema de GPU o placa madre → *requiere diagnóstico avanzado*.
-
-## Paso 3: Sistema operativo
-
-**¿Arranca el sistema operativo instalado?**
-
-- **SÍ** → andá al Paso 3a.
-- **NO** → andá al Paso 4 (live USB).
-
-### Paso 3a: ¿El sistema es usable?
-
-Probá abrir un navegador o un documento. ¿Responde bien?
-
-- **SÍ, funciona bien** → [R] *Recuperable*. Podés instalar Linux y entregar.
-- **NO, es lento o inestable** → Posible problema de disco, RAM insuficiente o sistema acumulado. Probá con live USB (Paso 4) para descartar hardware.
-
-## Paso 4: Prueba con live USB
-
-Arrancá desde el pendrive Linux (live USB). Si no sabés cómo, ver el Capítulo 5 — sección "Arrancar desde el pendrive".
-
-**¿El sistema live funciona? ¿El mouse se mueve? ¿No se cuelga?**
-
-- **SÍ** → El hardware anda. El problema era del sistema o el disco.
-  - → Solución típica: cambiar HDD por SSD, o reinstalar el sistema operativo.
-- **NO** → Probable problema de RAM, placa madre o fuente.
-  - → Seguí al Paso 5.
-
-## Paso 5: Chequeos simples (abrir la PC)
-
-> Solo con la PC apagada y desenchufada.
-
-Mirá dentro de la máquina:
-
-- **Mucho polvo** → limpiar (mejora notablemente el funcionamiento y evita recalentamientos).
-- **Cables sueltos** → reconectar.
-- **RAM mal asentada** → sacá y volvé a poner los módulos (esto se llama *reseat*).
-- **Si tenés otro módulo de RAM disponible**, probalo en lugar del original.
-
-**¿Mejoró después de estas intervenciones?**
-
-- **SÍ** → [R] *Recuperable con cambio simple* (limpieza, RAM, etc.).
-- **NO** → [A] *Requiere diagnóstico avanzado* (placa madre, chipset, GPU integrada).
-
-## Clasificación final
-
-Al terminar el diagnóstico, clasificá cada máquina en una de estas categorías:
-
-### [RECUPERABLE] (cambio simple)
-Funciona o casi funciona. Solo necesita SSD, más RAM, limpieza de polvo o reemplazo de fuente. Tiempo de trabajo estimado: 30 minutos a 1 hora.
-
-### [AVANZADO] Requiere diagnóstico avanzado
-No arranca ni con live USB. Problemas raros o inconsistentes. Requiere más tiempo o herramientas especializadas.
-
-### [DESCARTAR] No vale la pena recuperar
-Hardware muy obsoleto (Pentium 4, DDR1), menos de 2 GB de RAM DDR2, daños físicos graves. Va directamente a residuos electrónicos responsables.
-
-## Cuándo descartar una máquina
-
-Orientación general:
-
-- **Procesador Pentium 4 o anterior** → descartar.
-- **DDR1 RAM** → descartar.
-- **Menos de 2 GB de RAM DDR2** → descartar (o destinar solo para usos muy específicos).
-- **HDD con ruidos mecánicos** → descartar el disco; la máquina puede salvarse con SSD.
-
-## Registro por máquina
-
-Para cada máquina que pase por diagnóstico, anotá:
-
-| Campo | Valor |
-|---|---|
-| ¿Enciende? | Sí / No |
-| ¿Da video? | Sí / No |
-| ¿Arranca sistema? | Sí / No |
-| ¿Funciona live USB? | Sí / No |
-| RAM (cantidad y tipo) | Ej: 4 GB DDR3 |
-| Tipo de disco | HDD / SSD / NVMe |
-| Problemas detectados | Ej: polvo, RAM suelta |
-| Clasificación | [R] / [A] / [D] |
-
-Ese registro es valioso para el balance de la jornada y para la red del movimiento.
-
-## Consejos Cybercirujas
-
-- Empezá siempre por lo más simple: limpiar el polvo mejora mucho.
-- Cambiar HDD por SSD hace una diferencia enorme en máquinas viejas.
-- No forzar componentes: si no entra fácil, algo está mal.
-- Documentar todo: el registro colectivo vale más que la memoria individual.
-- Si no sabés, preguntá: en Cybercirujas nadie sabe todo, pero entre todes sabemos bastante.
-
-\newpage
-
-# Instalación básica de Linux
-
-> Esta guía está pensada para quien viene a instalar Linux por primera vez. Un ayudante o ayudanta va a estar con vos en cada paso, pero podés seguirla sola/solo si querés.
-
-## ¿Por qué Linux?
-
-Porque permite dar nueva vida a hardware que Windows ya no soporta bien. Porque es software libre. Porque no te espía, no te vende publicidad, no te cobra por actualizaciones. Porque funciona bien en computadoras de hace diez años o más.
-
-En una Reparatona o un installfest Cyberciruja, instalamos Linux para que cada máquina recuperada pueda realmente ser usada.
-
-## Paso a paso
-
-### 1. Elegir una versión de Linux
-
-La elección depende del hardware:
-
-| Mi equipo... | Distro recomendada |
-|---|---|
-| Es moderno (menos de 6 años, 8 GB RAM o más) | **Ubuntu 24.04 LTS** |
-| Es modesto (4 GB RAM, procesador viejo) | **Linux Mint XFCE** |
-| Es muy viejo (2 GB RAM o menos) | **MX Linux** o **AntiX** |
-
-> Si no sabés cuánta RAM tenés: en Windows, `Win + Pause` o buscá "Acerca de este equipo".
-
-> En los eventos Cybercirujas, los ayudantes ya tienen las ISOs descargadas en los pendrives. No necesitás descargar nada.
-
-### 2. Respaldar tus datos (no te saltes este paso)
-
-Antes de instalar Linux, hacé un backup de todo lo que no querés perder:
-
-**¿Qué respaldar?**
-
-- Documentos, planillas, trabajos.
-- Fotos y videos.
-- Contactos y conversaciones (WhatsApp Web, etc.).
-- Contraseñas guardadas en el navegador (exportalas o anotá las importantes).
-- Cualquier archivo que no puedas recuperar si se borra.
-
-**¿Dónde guardarlo?**
-
-- Pendrive o disco externo.
-- Google Drive, OneDrive o Dropbox.
-- Cualquier combinación de los anteriores.
-
-> **Hacé el backup antes de venir al evento.** Una vez que empieza la instalación, no hay vuelta atrás sin el backup.
-
-### 3. Elegir: instalación limpia o dual boot
-
-**Instalación limpia** (recomendada):
-
-- Borramos Windows y queda solo Linux.
-- Más simple, más rápido, menos problemas a futuro.
-- Ideal si ya no usás Windows o si tenés otro equipo con Windows.
-
-**Dual boot:**
-
-- Ambos sistemas conviven en el mismo disco.
-- Al encender la máquina elegís cuál usar.
-- Requiere más pasos previos.
-- Puede haber complicaciones con actualizaciones de Windows (BitLocker, GRUB, hora del sistema).
-
-> Si elegís dual boot y algo falla después con Windows, el grupo de soporte puede ayudarte.
-
-### 4. Si hacés dual boot: preparar Windows
-
-**Desactivar el Inicio Rápido (Fast Startup):**
-
-1. Presioná la tecla Windows y buscá "Panel de Control".
-2. Andá a Hardware y sonido → Opciones de energía.
-3. Hacé clic en "Elegir el comportamiento de los botones de inicio/apagado".
-4. Hacé clic en "Cambiar la configuración actualmente no disponible".
-5. Desmarcá "Activar inicio rápido (recomendado)".
-6. Guardá los cambios.
-
-**Hacer espacio para Linux:**
-
-1. Hacé clic derecho en el menú Inicio → "Administración de discos" (o `Win + R` → `diskmgmt.msc`).
-2. Hacé clic derecho en la partición C: → "Reducir volumen...".
-3. En el campo "Tamaño del espacio que desea reducir", ingresá el tamaño para Linux. Para 100 GB, escribí `102400`. Un valor entre 50.000 y 100.000 suele estar bien.
-4. Hacé clic en "Reducir".
-5. Vas a ver un bloque negro etiquetado como "No asignado". No hagas nada con él: ahí va Linux.
-
-### 5. Arrancar desde el pendrive
-
-**En Windows 10:**
-
-1. Reiniciá el equipo.
-2. Presioná repetidamente la tecla de *boot menu* antes de que aparezca el logo de Windows:
-   - Lenovo: `F12` — Dell: `F12` — Acer: `F12` — ASUS: `F8` (desktop) o `Esc` (notebook) — HP: `Esc` o `F9` — MSI: `Supr/Del`
-3. Si no funciona: Configuración → Actualización y seguridad → Recuperación → Inicio avanzado → Reiniciar ahora → Usar un dispositivo → USB.
-
-**En Windows 11:**
-
-1. Igual que en Windows 10.
-2. Si el instalador no arranca, puede ser necesario desactivar **Secure Boot** en la BIOS/UEFI (avisale a un ayudante).
-
-### 6. Instalar Linux
-
-Una vez que arrancás desde el pendrive, el instalador te va a guiar por:
-
-- Idioma y teclado (elegí español, distribución de teclado latinoamericano).
-- Zona horaria (America/Cordoba o la que corresponda).
-- Tipo de instalación (limpia o junto a Windows).
-- Nombre de usuario y contraseña.
-
-El proceso dura entre 10 y 20 minutos.
-
-### 7. Verificación post-instalación
-
-Al terminar la instalación, reiniciá y verificá:
-
-**Red:**
-```bash
-ping -c 3 google.com
-```
-
-**Sonido:** abrí `pavucontrol` y probá la salida de audio.
-
-**Gráficos:** abrí un video o mové ventanas para verificar fluidez.
-
-Si algo no funciona, el grupo de soporte puede ayudar:
-
-- Telegram: <https://t.me/flisolcba>
-- Matrix: <https://matrix.to/#/!VhuMNXEynEDcgwdOfa:matrix.org>
-
-## Preguntas frecuentes post-instalación
-
-**¿Se puede volver a Windows?** En dual boot sí. En instalación limpia, solo reinstalando Windows desde cero.
-
-**¿Funcionan WhatsApp, Office y Zoom?** WhatsApp funciona desde el navegador. LibreOffice abre archivos de Office (o usá Microsoft 365 online). Zoom y Meet tienen cliente Linux o se usan desde el navegador.
-
-**¿Puedo instalar juegos?** Sí. Con Steam y Proton muchos juegos de Windows funcionan en Linux. Consultá la compatibilidad en [ProtonDB](https://www.protondb.com).
-
-**¿Tengo que desactivar Secure Boot?** En la mayoría de los casos, no. Las distros principales (Ubuntu, Mint) funcionan con Secure Boot activo. Solo desactivalo si el pendrive no arranca.
 
 \newpage
 
@@ -600,7 +362,7 @@ En la feria:
 
 La feria puede incluir proyectos muy diversos. Estos son algunos que se han visto en encuentros Cybercirujas:
 
-**Hardware hackeado con nuevo propósito.** Postnet recuperadas y modificadas para recrear la experiencia de cámaras Polaroid. Componentes de computadora reciclados para construir artesanías o instalaciones. Comandos para videojuegos construidos desde cero. Máquinas digitales "100% artesanales".
+**Hardware hackeado con nuevo propósito.** Postnets recuperadas y modificadas para recrear la experiencia de cámaras Polaroid. Componentes de computadora reciclados para construir artesanías o instalaciones. Comandos para videojuegos construidos desde cero. Máquinas digitales "100% artesanales".
 
 **Clubes de ciencia.** Instalaciones donde los Cybercirujas presentan sus proyectos de manera accesible: cómo funciona, qué problema resuelve, qué aprendieron en el camino. No hace falta que sea un proyecto terminado: el proceso también es interesante.
 
@@ -608,7 +370,7 @@ La feria puede incluir proyectos muy diversos. Estos son algunos que se han vist
 
 **Arte generativo y live coding.** Audiovisuales creados en tiempo real con código. Música chiptune: sonidos creados con chips de computadoras y consolas antiguas. Performance donde el proceso creativo es visible.
 
-**Fanzines y publicaciones.** Las producciones escritas del movimiento circulan en papel y PDF. Algunos ejemplos: *Actualidad Cyberciruja / Zona Warpa* (en alianza con un colectivo hacktivista italiano) y *Tikezin* (impreso en una tiqueadora recuperada y controlada gracias al hacking de una de sus integrantes). Dos números editados, distribución por internet, en mano y por correo.
+**Fanzines y publicaciones.** Las producciones escritas del movimiento circulan en papel y PDF. Algunos ejemplos: *Actualidad Cyberciruja / Zona Warpa* y *Tikezin* (impreso en una tiqueadora recuperada y controlada gracias al hacking de una de sus integrantes).
 
 ## Cómo organizar la feria
 
@@ -703,16 +465,18 @@ También es una forma de financiamiento y difusión: la fiesta convoca a persona
 
 \newpage
 
-# Apéndice A: Organizar un installfest
+# Installfest
 
 Un **installfest** es un evento dedicado específicamente a instalar Linux en computadoras. Puede ser parte de una olla popular o un evento independiente (como el FLISoL, Festival Latinoamericano de Instalación de Software Libre).
+
+A diferencia de la reparatona, el foco en el installfest es casi exclusivamente el sistema operativo: llegan personas con equipos que funcionan mecánicamente pero tienen Windows, y se van con Linux. Es el evento con mayor impacto en términos de cantidad de sistemas instalados en una sola jornada.
 
 ## Antes del evento
 
 ### Organización
 
 - [ ] Definir **distro principal** a instalar (recomendación actual: Ubuntu 24.04 LTS como base, con Mint XFCE y MX Linux/AntiX para hardware limitado).
-- [ ] Definir si la instalación será **sincrónica** (guiada en grupo) o **asincrónica** (atención 1 a 1).
+- [ ] Definir si la instalación será **sincrónica** (guiada en grupo) o **asincrónica** (atención 1 a 1). Para grupos grandes, lo sincrónico funciona bien para laptops similares; para hardware diverso, 1 a 1 es mejor.
 - [ ] Definir **roles del equipo:** recepción, instaladores/as, soporte, registro.
 - [ ] Planificar **presentación inicial** (mientras la gente hace backups). ¿Hace falta proyector?
 - [ ] Definir **criterio de instalación:** instalación limpia por defecto, dual boot solo a pedido.
@@ -753,13 +517,563 @@ Un **installfest** es un evento dedicado específicamente a instalar Linux en co
 - [ ] Adaptadores USB.
 - [ ] Cable de red.
 - [ ] Conocer cómo entrar a la BIOS en los modelos más comunes.
+- [ ] Verificar modo de arranque BIOS/UEFI antes de instalar.
+- [ ] Desactivar Secure Boot si genera problemas (Ventoy + Secure Boot falla en equipos con Windows actualizado, por revocación SBAT).
+- [ ] Confirmar que la persona hizo backup de sus datos.
+- [ ] Tras instalar: actualizar (`apt update && apt upgrade`), activar firewall (`sudo ufw enable`), probar WiFi, sonido y gráficos.
+- [ ] Agregar al grupo de Telegram de soporte post-evento.
 - [ ] Tener a mano el grupo de Telegram de soporte para escalar problemas.
 
 \newpage
 
-# Apéndice B: Problemas comunes en instalaciones Linux
+# PARTE 3 — Recircular, reparar, recuperar {.unnumbered}
 
-Esta tabla reúne los problemas más frecuentes en instalaciones de Linux (2026) y sus soluciones rápidas.
+\newpage
+
+# El ciclo del hardware
+
+## Hardware que no muere: lo recupera la comunidad
+
+Una computadora descartada no es basura: es hardware en espera. El movimiento Cybercirujas opera sobre esa convicción y ha desarrollado un circuito completo para que ese hardware encuentre su camino hacia una segunda vida útil —o, si ya no puede más, hacia un destino responsable.
+
+El ciclo tiene etapas claras:
+
+```
+Hardware en desuso
+       ↓
+  Olla Popular
+  (circulación)
+       ↓
+  Reparatona
+  (diagnóstico y reparación)
+       ↓
+  Installfest
+  (sistema operativo libre)
+       ↓
+  Segunda vida
+  (persona o comunidad que lo necesita)
+       ↓
+  RAEE responsable
+  (si ya no puede recuperarse)
+```
+
+## Las etapas del ciclo
+
+**1. Olla Popular de Hardware.** El hardware en desuso entra al circuito. Alguien lo trae, la comunidad lo recibe. Si está en buen estado, circula directamente. Si necesita trabajo, pasa a la siguiente etapa.
+
+**2. Reparatona.** Diagnóstico, limpieza, reemplazo de componentes. Muchas máquinas que parecen muertas solo necesitan una limpieza de polvo, una RAM recolocada, un disco reemplazado. La reparatona hace ese trabajo con paciencia y con pedagogía.
+
+**3. Installfest.** Un equipo que funciona mecánicamente pero tiene Windows desactualizado o un sistema lento puede transformarse con Linux. El installfest es el paso que convierte el hardware recuperado en una herramienta verdaderamente usable y libre.
+
+**4. Segunda vida.** El equipo llega a quien lo necesita: una familia, una organización comunitaria, una escuela, una persona en situación de vulnerabilidad digital. En 2024, la red Cybercirujas entregó 134 computadoras y 17 dispositivos móviles.
+
+**5. RAEE responsable.** No todo puede recuperarse. Lo que no tiene segunda vida no va a la basura común: va a puntos de recolección habilitados, a operadores de RAEE certificados, o se guarda para extraer componentes útiles antes del descarte. Ver Capítulo 15 para detalles sobre dónde llevar residuos electrónicos.
+
+## La recirculación como práctica política
+
+Este ciclo no es solo logístico: es político. Cada máquina que entra al circuito Cyberciruja es una máquina que no va al vertedero, una persona que no compra hardware nuevo, un eslabón en una cadena de conocimiento que se reproduce.
+
+La recirculación de hardware es, en términos concretos, el ejercicio comunitario de facto del **derecho a reparar**: el derecho a que los dispositivos puedan ser entendidos, mantenidos y prolongados en su vida útil por sus usuarios, y no solo por el fabricante.
+
+\newpage
+
+# Diagnóstico rápido de una computadora
+
+Esta guía sirve para realizar un **diagnóstico básico de computadoras** durante una Reparatona (ver Capítulo 4).
+
+**Objetivo:** detectar rápidamente si una computadora funciona correctamente, se puede recuperar con cambios simples (RAM, disco, fuente, periféricos), o requiere diagnóstico técnico más avanzado.
+
+## Preparación
+
+Antes de empezar, asegurate de tener:
+
+- Cable de energía
+- Monitor funcional
+- Teclado y mouse
+- Pendrive con Linux (live USB)
+- Destornillador (para abrir si hace falta)
+
+> **Importante:** Abrí la computadora siempre apagada y desenchufada.
+
+## Paso 1: Encendido inicial
+
+Presioná el botón de encendido.
+
+**¿Se encienden LEDs o giran ventiladores?**
+
+- **SÍ** → seguí al Paso 2.
+- **NO** → revisá cable de alimentación y enchufe. Si sigue sin encender, posible problema de fuente de alimentación. Marcá como *posible fallo de fuente*; si hay fuente de repuesto disponible, probala antes de descartarla.
+
+## Paso 2: Video
+
+**¿El monitor muestra imagen?**
+
+- **SÍ** → seguí al Paso 3.
+- **NO** → revisá el cable de video. Probá con otro monitor si es posible. Si sigue sin imagen, posible problema de GPU o placa madre → *requiere diagnóstico avanzado*.
+
+## Paso 3: Sistema operativo
+
+**¿Arranca el sistema operativo instalado?**
+
+- **SÍ** → andá al Paso 3a.
+- **NO** → andá al Paso 4 (live USB).
+
+### Paso 3a: ¿El sistema es usable?
+
+Probá abrir un navegador o un documento. ¿Responde bien?
+
+- **SÍ, funciona bien** → [R] *Recuperable*. Podés instalar Linux y entregar.
+- **NO, es lento o inestable** → Posible problema de disco, RAM insuficiente o sistema acumulado. Probá con live USB (Paso 4) para descartar hardware.
+
+## Paso 4: Prueba con live USB
+
+Arrancá desde el pendrive Linux (live USB). Si no sabés cómo, ver el Capítulo 12 — sección "Arrancar desde el pendrive".
+
+**¿El sistema live funciona? ¿El mouse se mueve? ¿No se cuelga?**
+
+- **SÍ** → El hardware anda. El problema era del sistema o el disco.
+  - → Solución típica: cambiar HDD por SSD, o reinstalar el sistema operativo.
+- **NO** → Probable problema de RAM, placa madre o fuente.
+  - → Seguí al Paso 5.
+
+## Paso 5: Chequeos simples (abrir la PC)
+
+> Solo con la PC apagada y desenchufada.
+
+Mirá dentro de la máquina:
+
+- **Mucho polvo** → limpiar (mejora notablemente el funcionamiento y evita recalentamientos).
+- **Cables sueltos** → reconectar.
+- **RAM mal asentada** → sacá y volvé a poner los módulos (esto se llama *reseat*).
+- **Si tenés otro módulo de RAM disponible**, probalo en lugar del original.
+
+**¿Mejoró después de estas intervenciones?**
+
+- **SÍ** → [R] *Recuperable con cambio simple* (limpieza, RAM, etc.).
+- **NO** → [A] *Requiere diagnóstico avanzado* (placa madre, chipset, GPU integrada).
+
+## Clasificación final
+
+Al terminar el diagnóstico, clasificá cada máquina en una de estas categorías:
+
+### [RECUPERABLE] (cambio simple)
+Funciona o casi funciona. Solo necesita SSD, más RAM, limpieza de polvo o reemplazo de fuente. Tiempo de trabajo estimado: 30 minutos a 1 hora.
+
+### [AVANZADO] Requiere diagnóstico avanzado
+No arranca ni con live USB. Problemas raros o inconsistentes. Requiere más tiempo o herramientas especializadas.
+
+### [DESCARTAR] No vale la pena recuperar
+Hardware muy obsoleto (Pentium 4, DDR1), menos de 2 GB de RAM DDR2, daños físicos graves. Va directamente a residuos electrónicos responsables.
+
+## Cuándo descartar una máquina
+
+Orientación general:
+
+- **Procesador Pentium 4 o anterior** → descartar.
+- **DDR1 RAM** → descartar.
+- **Menos de 2 GB de RAM DDR2** → descartar (o destinar solo para usos muy específicos).
+- **HDD con ruidos mecánicos** → descartar el disco; la máquina puede salvarse con SSD.
+
+## Registro por máquina
+
+Para cada máquina que pase por diagnóstico, anotá:
+
+| Campo | Valor |
+|---|---|
+| ¿Enciende? | Sí / No |
+| ¿Da video? | Sí / No |
+| ¿Arranca sistema? | Sí / No |
+| ¿Funciona live USB? | Sí / No |
+| RAM (cantidad y tipo) | Ej: 4 GB DDR3 |
+| Tipo de disco | HDD / SSD / NVMe |
+| Problemas detectados | Ej: polvo, RAM suelta |
+| Clasificación | [R] / [A] / [D] |
+
+Ese registro es valioso para el balance de la jornada y para la red del movimiento.
+
+## Consejos Cybercirujas
+
+- Empezá siempre por lo más simple: limpiar el polvo mejora mucho.
+- Cambiar HDD por SSD hace una diferencia enorme en máquinas viejas.
+- No forzar componentes: si no entra fácil, algo está mal.
+- Documentar todo: el registro colectivo vale más que la memoria individual.
+- Si no sabés, preguntá: en Cybercirujas nadie sabe todo, pero entre todes sabemos bastante.
+
+\newpage
+
+# Kit de herramientas
+
+Un buen kit de herramientas es la diferencia entre una reparatona fluida y una tarde de frustraciones. Esta sección describe las herramientas físicas y digitales que no deben faltar.
+
+## Herramientas físicas
+
+**Para apertura y ajuste:**
+
+- Destornilladores Phillips (PH1 y PH0) — los más usados en notebooks.
+- Destornillador plano mediano — para hacer palanca con cuidado.
+- Destornilladores Torx (T5, T6, T8) — para algunas notebooks y dispositivos modernos.
+- Espátulas de plástico o "spudgers" — para abrir carcasas sin rayar.
+- Pinzas de punta fina — para conectores pequeños y cables planos.
+
+**Para limpieza:**
+
+- Aire comprimido en spray o soplador eléctrico — para limpiar polvo sin tocar.
+- Isopropanol al 70% o superior — para limpiar pasta térmica vieja.
+- Hisopos — para aplicar el isopropanol en lugares precisos.
+- Trapo de microfibra — para pantallas y superficies sensibles.
+
+**Para mantenimiento térmico:**
+
+- Pasta térmica (Arctic Silver, Thermal Grizzly, o similar) — para reponer entre el procesador y el disipador. Es el cambio que más mejora la temperatura en máquinas viejas.
+
+> **Nota sobre la pasta dental:** existe el mito de que la pasta dental puede reemplazar a la pasta térmica en emergencias. La respuesta corta es: sí, temporariamente, pero se degrada rápido y puede corroer componentes. Usá pasta térmica real siempre que sea posible. El foro tiene un hilo divertido sobre esto: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=77>
+
+**Para diagnóstico eléctrico:**
+
+- Multímetro — para medir voltaje de fuentes, continuidad de cables, verificar baterías.
+- Fuente de alimentación de escritorio de repuesto — para probar placas madre sin la fuente original.
+- Módulos de RAM de repuesto — para probar si el problema es la RAM.
+
+**Para desbloqueo de BIOS:**
+
+- **Programador de BIOS CH341a** con adaptadores SOIC8 — para leer y escribir chips de BIOS cuando la contraseña no se puede resetear por software. Ver Capítulo 11 para más detalle.
+
+**Para conectividad:**
+
+- Cables SATA de repuesto.
+- Adaptadores USB a SATA (para probar discos externos).
+- Zapatillas y alargues eléctricos — nunca sobran.
+- Cable de red largo — para equipos con WiFi problemático durante la instalación.
+- Adaptadores USB-C ↔ USB-A.
+
+## Herramientas digitales
+
+**El pendrive Cyberciruja.** El pendrive con [Ventoy](https://www.ventoy.net) es la herramienta digital más importante del kit. Ventoy permite tener múltiples ISOs en un mismo pendrive y elegir cuál usar al arrancar, sin tener que regrabar el pendrive cada vez.
+
+**ISOs recomendadas para el pendrive:**
+
+| ISO | Uso |
+|---|---|
+| Ubuntu 24.04 LTS | Hardware moderno (menos de 6 años, 8 GB RAM o más) |
+| Linux Mint XFCE | Hardware modesto (4 GB RAM, procesador viejo) |
+| MX Linux o AntiX | Hardware muy viejo (2 GB RAM o menos) |
+| Cirujantix | Netbooks Conectar Igualdad G1/G2/G3 y laptops viejas |
+| Boot-Repair-Disk | Reparación de GRUB y problemas de arranque |
+
+**Herramienta de respaldo:** llevar al menos un pendrive grabado directamente con Ubuntu LTS (sin Ventoy) para equipos con BIOS/UEFI que no aceptan Ventoy.
+
+## Mantener el kit
+
+- Después de cada evento, revisar qué se gastó o se perdió y reponerlo.
+- Actualizar las ISOs del pendrive Ventoy cada 6 meses o con cada nueva versión LTS.
+- Guardar el kit en una caja o mochila dedicada: así siempre está lista para el próximo evento.
+
+Para más recursos sobre herramientas de diagnóstico y mantenimiento, ver el subforo del foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=34> y <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=62>
+
+\newpage
+
+# Desbloqueo de equipos
+
+## Por qué hay equipos con BIOS bloqueada
+
+Muchas de las computadoras que circulan por las ollas y reparatones de Cybercirujas vienen de programas estatales de acceso a tecnología: el programa **Conectar Igualdad** (netbooks para estudiantes de secundaria pública), el **Plan Sarmiento** de la provincia de Buenos Aires, el programa **YoProgramo**, entre otros.
+
+Estos equipos fueron distribuidos con una contraseña de supervisor de BIOS para evitar que los estudiantes los modificaran o los vendieran. Cuando esos estudiantes terminan la escuela, o cuando los equipos terminan en la olla popular de hardware, esa contraseña se convierte en un obstáculo: sin poder entrar a la BIOS, no se puede arrancar desde un pendrive y, por lo tanto, no se puede instalar Linux.
+
+**El desbloqueo no es piratería.** Es recuperar el control de un hardware que ya no está bajo ningún programa estatal, para darle una segunda vida útil. Es, en los hechos, el ejercicio del derecho a reparar.
+
+## Tipos de bloqueo
+
+**Contraseña de supervisor de BIOS.** El tipo más común. La contraseña está almacenada en un chip de la placa madre (la CMOS o el chip de BIOS). Sin ella, no se puede acceder al menú de BIOS ni cambiar el orden de arranque.
+
+**Chip de BIOS flasheado con contraseña integrada.** En algunas generaciones de netbooks de Conectar Igualdad, la contraseña está grabada directamente en el firmware del chip. Hay que reprogramar el chip para eliminarla.
+
+**TPM (Trusted Platform Module).** En algunas generaciones más recientes (G4+), el bloqueo involucra al chip TPM, que almacena claves criptográficas. La extracción del TPM o la reprogramación del chip de BIOS son necesarias.
+
+## Métodos generales de desbloqueo
+
+**Pendrive de desbloqueo temporario.** Para algunas generaciones existe un método por software: un pendrive especialmente preparado que, al arrancar, permite desbloquear la BIOS sin necesidad de abrir el equipo ni usar hardware adicional. Es el método más accesible pero solo funciona en ciertas generaciones.
+
+**Programador de BIOS (CH341a).** El método más universal. Con un programador de bajo costo (unos pocos dólares) y sus adaptadores, se puede leer el chip de BIOS, editarlo para eliminar la contraseña, y volver a grabarlo. Requiere abrir el equipo, identificar el chip, y soldar o usar un clip de contacto.
+
+**Extracción del chip de BIOS.** En algunos casos se extrae físicamente el chip de BIOS del zócalo (si está en socket) y se reprograma en un programador externo. Requiere desoldar si el chip está soldado directamente.
+
+**Extracción o cortocircuito del TPM.** Para modelos con TPM involucrado en el bloqueo, la extracción del chip TPM es a veces la única solución. Es una operación más delicada que requiere experiencia en soldadura SMD.
+
+## Netbooks Conectar Igualdad: tabla de generaciones
+
+> **[TAREA COMUNIDAD]** Esta tabla debe ser revisada y actualizada por referentes con experiencia directa en cada generación. La guía oficial del PBA (PDF descargable desde el foro) cubre G1 a G10 con detalle. Consultarla antes de intentar cualquier desbloqueo.
+
+| Generación | Modelos típicos | Método recomendado | Guía en el foro |
+|---|---|---|---|
+| G1 | Classmate PC 1ra gen | Programador BIOS | - |
+| G2 | Exomate X352, E11IS2 | Sin soldador (método placa) / Programador | [t=204](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=204), [t=299](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=299) |
+| G3 | Exomate X352 2da gen, Sarmiento | Sin soldador / Programador | [t=203](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=203) |
+| G4 | Lenovo N586, Atom N2600 | Extracción TPM / Programador | [t=249](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=249), [t=47](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=47) |
+| G5 | Lenovo varios | Sin programador (método software) / Programador | [t=36](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=36), [t=48](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=48) |
+| G6 | Varios | Programador BIOS | [t=48](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=48) |
+| G7–G9 | Varios | Programador BIOS | [t=49](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=49) |
+| G10 | Varios | Programador BIOS | [t=51](https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=51) |
+
+**Guía oficial PBA (G1–G10):** <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=476>
+
+**Desbloqueo temporario via pendrive (varias generaciones):** <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=457>
+
+## Plan Sarmiento (PBA)
+
+Los equipos del Plan Sarmiento (provincia de Buenos Aires) son en general similares en método a las generaciones equivalentes de Conectar Igualdad. Muchas son Bangho (fabricante argentino) con BIOS bloqueada por contraseña de supervisor. El método con programador CH341a aplica en la mayoría de los casos. Ver el hilo sobre notebooks Sarmiento Bangho: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=475>
+
+## ThinkPad: desbloqueo de whitelist de WiFi y batería
+
+Los ThinkPad son uno de los modelos más buscados por el movimiento Cyberciruja por su robustez y reparabilidad. Tienen sus propios bloqueos específicos:
+
+- **Whitelist de WiFi:** algunas versiones de BIOS solo aceptan tarjetas WiFi de la lista de Lenovo. Se soluciona flasheando una BIOS modificada que elimina esa restricción.
+- **Batería no original:** algunas BIOS rechazan baterías de terceros. Mismo procedimiento.
+- **Overclocking RAM:** en algunos modelos es posible con BIOS modificada.
+
+Ver el hilo de ThinkPad en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=294>
+
+## Cómo usar el programador CH341a
+
+El programador CH341a es el estándar de facto en el movimiento. Es barato (se consigue en ferias electrónicas o pedido online), fácil de usar con herramientas libres, y funciona tanto en Linux como en Windows.
+
+**Herramientas:**
+- Programador CH341a con adaptador SOIC8 o clip de contacto.
+- Software: `flashrom` (Linux, recomendado) o `AsProgrammer` / `CH341a Programmer` (Windows).
+- Cable USB.
+
+**Procedimiento general:**
+1. Identificar el chip de BIOS en la placa madre (suele ser un chip de 8 pines marcado como Winbond, GigaDevice, ISSI o similar).
+2. Conectar el clip SOIC8 al chip sin desoldarlo, o extraerlo si está en socket.
+3. Leer el contenido actual del chip y guardarlo como backup.
+4. Editar el dump para eliminar la contraseña (hay herramientas específicas por modelo).
+5. Escribir el dump modificado de vuelta al chip.
+6. Verificar la escritura.
+
+Guía para flashear con CH341a en Linux y Windows: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=290>
+
+Para construir tu propio programador de BIOS casero (más barato aún): <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=435>
+
+## Cuándo no hay solución fácil
+
+No todos los equipos tienen solución rápida. Si:
+
+- El chip de BIOS está soldado en BGA (sin pines accesibles externamente) → requiere equipamiento de reballing que va más allá del kit Cyberciruja básico.
+- El modelo no tiene documentación en el foro → preguntá en el grupo de Telegram antes de intentar nada.
+- Ya probaste todo y sigue bloqueado → registralo para RAEE o guardalo para piezas. No todo puede salvarse, y eso también está bien.
+
+\newpage
+
+# Instalación de Linux
+
+> Esta guía está pensada para quien viene a instalar Linux por primera vez. Un ayudante o ayudanta va a estar con vos en cada paso, pero podés seguirla sola/solo si querés.
+
+## ¿Por qué Linux?
+
+Porque permite dar nueva vida a hardware que Windows ya no soporta bien. Porque es software libre. Porque no te espía, no te vende publicidad, no te cobra por actualizaciones. Porque funciona bien en computadoras de hace diez años o más.
+
+En una Reparatona o un installfest Cyberciruja, instalamos Linux para que cada máquina recuperada pueda realmente ser usada.
+
+## Ventoy: el pendrive inteligente
+
+En lugar de grabar una sola ISO en un pendrive, usamos **Ventoy**: una herramienta que convierte un pendrive en un menú de arranque con múltiples ISOs. Así, con un solo pendrive podés probar Ubuntu, Mint, AntiX o cualquier otra distro sin tener que regrabar cada vez.
+
+**Cómo preparar un pendrive con Ventoy:**
+
+1. Descargá Ventoy desde [ventoy.net](https://www.ventoy.net) (es gratuito y libre).
+2. Conectá el pendrive (8 GB o más). **Va a borrarse todo lo que tenga adentro.**
+3. Ejecutá Ventoy y elegí el pendrive. Hacé clic en "Install".
+4. Una vez instalado, el pendrive aparece como una unidad normal. Copiá las ISOs directamente (arrastrá y soltá).
+5. Al arrancar desde ese pendrive, aparece un menú para elegir qué ISO usar.
+
+> En los eventos Cybercirujas, los ayudantes ya tienen los pendrives con Ventoy listos. No necesitás preparar nada vos.
+
+> **Nota:** En algunos equipos con Windows actualizado, Ventoy puede fallar por conflictos con Secure Boot (revocación SBAT). En ese caso, usar el pendrive de respaldo grabado directamente con una ISO.
+
+## Elegir una versión de Linux
+
+La elección depende del hardware:
+
+| Mi equipo... | Distro recomendada |
+|---|---|
+| Es moderno (menos de 6 años, 8 GB RAM o más) | **Ubuntu 24.04 LTS** |
+| Es modesto (4 GB RAM, procesador viejo) | **Linux Mint XFCE** |
+| Es muy viejo (2 GB RAM o menos) | **MX Linux** o **AntiX** |
+| Es una netbook Conectar Igualdad G1/G2/G3 | **Cirujantix** |
+
+> Si no sabés cuánta RAM tenés: en Windows, `Win + Pause` o buscá "Acerca de este equipo".
+
+## Verificar si el equipo es UEFI o BIOS Legacy
+
+Antes de instalar, conviene saber en qué modo de arranque está el equipo.
+
+**En Windows:** presioná `Win + R`, ejecutá `msinfo32`, y fijate en el campo "Modo BIOS": dice UEFI o Legacy.
+
+**En Linux (live USB):**
+```bash
+ls /sys/firmware/efi
+```
+Si la carpeta existe → está en UEFI. Si no existe → está en BIOS Legacy.
+
+Esto importa para el particionado manual (ver más abajo).
+
+## Respaldar datos (no te saltes este paso)
+
+Antes de instalar Linux, hacé un backup de todo lo que no querés perder.
+
+**¿Qué respaldar?**
+
+- Documentos, planillas, trabajos.
+- Fotos y videos.
+- Contactos y conversaciones (WhatsApp Web, etc.).
+- Contraseñas guardadas en el navegador (exportalas o anotá las importantes).
+- Cualquier archivo que no puedas recuperar si se borra.
+
+**¿Dónde guardarlo?**
+
+- Pendrive o disco externo.
+- Google Drive, OneDrive o Dropbox.
+- Cualquier combinación de los anteriores.
+
+> **Hacé el backup antes de venir al evento.** Una vez que empieza la instalación, no hay vuelta atrás sin el backup.
+
+## Instalación limpia o dual boot
+
+**Instalación limpia** (recomendada):
+
+- Borramos Windows y queda solo Linux.
+- Más simple, más rápido, menos problemas a futuro.
+- Ideal si ya no usás Windows o si tenés otro equipo con Windows.
+
+**Dual boot:**
+
+- Ambos sistemas conviven en el mismo disco.
+- Al encender la máquina elegís cuál usar.
+- Requiere más pasos previos.
+- Puede haber complicaciones con actualizaciones de Windows (BitLocker, GRUB, hora del sistema).
+
+> Si elegís dual boot y algo falla después con Windows, el grupo de soporte puede ayudarte.
+
+## Si hacés dual boot: preparar Windows
+
+**Desactivar el Inicio Rápido (Fast Startup):**
+
+1. Presioná la tecla Windows y buscá "Panel de Control".
+2. Andá a Hardware y sonido → Opciones de energía.
+3. Hacé clic en "Elegir el comportamiento de los botones de inicio/apagado".
+4. Hacé clic en "Cambiar la configuración actualmente no disponible".
+5. Desmarcá "Activar inicio rápido (recomendado)".
+6. Guardá los cambios.
+
+**Hacer espacio para Linux:**
+
+1. Hacé clic derecho en el menú Inicio → "Administración de discos" (o `Win + R` → `diskmgmt.msc`).
+2. Hacé clic derecho en la partición C: → "Reducir volumen...".
+3. En el campo "Tamaño del espacio que desea reducir", ingresá el tamaño para Linux. Para 100 GB, escribí `102400`. Un valor entre 50.000 y 100.000 suele estar bien.
+4. Hacé clic en "Reducir".
+5. Vas a ver un bloque negro etiquetado como "No asignado". No hagas nada con él: ahí va Linux.
+
+## Arrancar desde el pendrive
+
+**En Windows 10:**
+
+1. Reiniciá el equipo.
+2. Presioná repetidamente la tecla de *boot menu* antes de que aparezca el logo de Windows:
+   - Lenovo: `F12` — Dell: `F12` — Acer: `F12` — ASUS: `F8` (desktop) o `Esc` (notebook) — HP: `Esc` o `F9` — MSI: `Supr/Del`
+3. Si no funciona: Configuración → Actualización y seguridad → Recuperación → Inicio avanzado → Reiniciar ahora → Usar un dispositivo → USB.
+
+**En Windows 11:**
+
+1. Igual que en Windows 10.
+2. Si el instalador no arranca, puede ser necesario desactivar **Secure Boot** en la BIOS/UEFI (avisale a un ayudante).
+
+## Instalar Linux
+
+Una vez que arrancás desde el pendrive, el instalador te va a guiar por:
+
+- Idioma y teclado (elegí español, distribución de teclado latinoamericano).
+- Zona horaria (America/Cordoba o la que corresponda).
+- Tipo de instalación (limpia o junto a Windows).
+- Nombre de usuario y contraseña.
+
+El proceso dura entre 10 y 20 minutos.
+
+## Particionado manual (avanzado)
+
+Si el instalador automático no funciona, o querés más control, podés hacer el particionado manual.
+
+**UEFI (equipos nuevos, Windows 8 en adelante) — tabla GPT:**
+
+| Partición | Tamaño | Tipo | Punto de montaje |
+|---|---|---|---|
+| EFI System Partition | 512 MB | FAT32 | `/boot/efi` |
+| Partición raíz | 20–30 GB | ext4 | `/` |
+| Swap | igual a la RAM si ≤4 GB; 2–4 GB si ≥8 GB | swap | — |
+| Home | resto del disco | ext4 | `/home` |
+
+**BIOS/Legacy (equipos viejos) — tabla MBR:**
+
+| Partición | Tamaño | Tipo | Punto de montaje |
+|---|---|---|---|
+| Partición raíz | 20–30 GB | ext4 | `/` |
+| Swap | mismo criterio que arriba | swap | — |
+| Home | resto del disco | ext4 | `/home` |
+
+> Si se instala en dual boot con Windows moderno, casi siempre ya está en UEFI → usar GPT.
+
+## Cirujantix: Linux para netbooks Conectar Igualdad
+
+**Cirujantix** es una distribución Linux desarrollada dentro del movimiento Cybercirujas, basada en AntiX. Está diseñada específicamente para las netbooks del programa Conectar Igualdad (generaciones G1, G2 y G3), que tienen hardware muy limitado (procesadores Intel Atom, 1–2 GB de RAM, pantallas pequeñas).
+
+**Características:**
+
+- Disponible en versiones 32 y 64 bits.
+- Interfaz moderna y amigable, adaptada al tamaño de pantalla de las netbooks.
+- Optimizada para funcionar bien con recursos mínimos.
+- Incluye las apps básicas necesarias para estudio y trabajo.
+- Mantenida por uctumi y la comunidad del foro.
+
+**Para qué equipos está pensada:**
+- Netbooks Conectar Igualdad G1, G2 y G3 (los más lentos).
+- Cualquier laptop o netbook muy vieja con 1–2 GB de RAM.
+
+**Dónde conseguirla:** en el hilo del foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=324>
+
+También se puede instalar RetroPie sobre Cirujantix en las netbooks G4 (Atom N2600) para usarlas como consola retro. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=438>
+
+## Linux en tablets con UEFI 32 bits
+
+Algunos tablets económicos (Bangho, iRobot, etc.) tienen procesadores de 64 bits pero UEFI de 32 bits. Esto impide instalar la mayoría de las distros directamente. Para instalar Linux Mint 64 bits en este tipo de equipos existe un procedimiento específico documentado en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=561>
+
+## Verificación post-instalación
+
+Al terminar la instalación, reiniciá y verificá:
+
+**Red:**
+```bash
+ping -c 3 google.com
+```
+
+**Sonido:** abrí `pavucontrol` y probá la salida de audio.
+
+**Gráficos:** abrí un video o mové ventanas para verificar fluidez.
+
+Si algo no funciona, el grupo de soporte puede ayudar:
+
+- Telegram: <https://t.me/flisolcba>
+- Matrix: <https://matrix.to/#/!VhuMNXEynEDcgwdOfa:matrix.org>
+
+## Preguntas frecuentes post-instalación
+
+**¿Se puede volver a Windows?** En dual boot sí. En instalación limpia, solo reinstalando Windows desde cero.
+
+**¿Funcionan WhatsApp, Office y Zoom?** WhatsApp funciona desde el navegador. LibreOffice abre archivos de Office (o usá Microsoft 365 online). Zoom y Meet tienen cliente Linux o se usan desde el navegador.
+
+**¿Puedo instalar juegos?** Sí. Con Steam y Proton muchos juegos de Windows funcionan en Linux. Consultá la compatibilidad en [ProtonDB](https://www.protondb.com).
+
+**¿Tengo que desactivar Secure Boot?** En la mayoría de los casos, no. Las distros principales (Ubuntu, Mint) funcionan con Secure Boot activo. Solo desactivalo si el pendrive no arranca.
+
+## Tabla de problemas comunes (2026)
 
 | Problema | Posible causa | Solución rápida |
 |---|---|---|
@@ -799,31 +1113,746 @@ sudo update-grub
 
 **Alternativa fácil:** usar una ISO de **Boot-Repair-Disk**, que automatiza la reparación de GRUB con pocos clics.
 
-### Instalar drivers WiFi privativos
+\newpage
 
-Ubuntu/Mint (Broadcom):
-```bash
-sudo apt install bcmwl-kernel-source
-```
+# Software libre para el día a día
 
-Realtek:
-```bash
-sudo apt install firmware-realtek
-```
+Instalar Linux es el primer paso. El segundo es poblar el sistema con herramientas libres que reemplacen las privativas a las que estamos acostumbrados. Este capítulo presenta un mapa de software libre para las necesidades más comunes.
+
+## El principio
+
+Preferimos software que:
+
+- Sea de código abierto.
+- Respete la privacidad (sin telemetría, sin publicidad).
+- Funcione bien en hardware modesto.
+- Tenga comunidad activa de mantenimiento.
+
+No siempre es posible reemplazar todo de golpe. El cambio de hábitos tecnológicos es gradual. Lo importante es empezar.
+
+## En la computadora con Linux
+
+**Navegador:**
+
+- **Firefox** — la opción más accesible. Código abierto, buena compatibilidad.
+- **Librewolf** — Firefox con configuración de privacidad más estricta por defecto.
+- **Chromium** — la versión libre de Chrome, sin los servicios de Google.
+
+**Ofimática:**
+
+- **LibreOffice** — suite completa: Writer (documentos), Calc (planillas), Impress (presentaciones). Abre archivos de Microsoft Office.
+
+**Multimedia:**
+
+- **VLC** — reproduce prácticamente cualquier formato de video y audio.
+- **Audacity** — editor de audio libre y muy completo.
+- **GIMP** — edición de imágenes, alternativa libre a Photoshop.
+- **Inkscape** — ilustración vectorial, alternativa a Illustrator.
+
+**Modelado 3D:**
+
+- **OpenSCAD** — modelado 3D programático (describís la forma con código). Ideal para piezas técnicas. Popular entre hackers y makers. Ver hilo en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=424>
+
+**Comunicación:**
+
+- **Thunderbird** — cliente de correo electrónico libre.
+- **Signal** — mensajería cifrada con cliente de escritorio.
+- **Element** — cliente para la red Matrix, alternativa federada a Slack/WhatsApp.
+
+**Drivers especiales:**
+
+- NVIDIA GeForce 7025 / MCP61 (chipset común en PCs de escritorio viejas): ver hilo específico en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=361>
+
+## En el celular Android
+
+### F-Droid: la tienda libre
+
+**F-Droid** es una tienda de aplicaciones que solo incluye apps de código abierto. Es el primer paso para liberarse de Google Play.
+
+Cómo instalar F-Droid:
+1. Desde el navegador del teléfono, ir a [f-droid.org](https://f-droid.org).
+2. Descargar el APK de F-Droid.
+3. Permitir instalar apps de fuentes desconocidas (Configuración → Seguridad).
+4. Instalar el APK.
+
+Desde F-Droid podés conseguir:
+
+| App | Función | Alternativa a |
+|---|---|---|
+| **NewPipe** | YouTube sin cuenta, sin publicidad | YouTube |
+| **K-9 Mail** | Correo electrónico | Gmail |
+| **Signal** | Mensajería cifrada | WhatsApp |
+| **Element** | Chat Matrix | Telegram/WhatsApp |
+| **OsmAnd** | Mapas offline (OpenStreetMap) | Google Maps |
+| **Organic Maps** | Mapas offline, más simple | Google Maps |
+| **Aegis** | Autenticador 2FA | Google Authenticator |
+| **VLC** | Reproductor multimedia | — |
+| **Fennec** | Firefox para Android | Chrome |
+
+Para una lista más completa de apps libres para Android, ver el hilo del foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=460>
+
+### Apps de comunicación segura
+
+El debate sobre qué app de chat usar es largo. La posición de Cybercirujas:
+
+- **Signal** es la opción más segura para la mayoría: cifrado de extremo a extremo, sin publicidad, código abierto.
+- **Element/Matrix** es la opción más soberana: la red Matrix es federada, podés tener tu propio servidor, nadie puede cerrarte la cuenta.
+- **Telegram** es popular pero no es cifrado por defecto (solo los "chats secretos" lo son). Es el canal de comunicación principal de Cybercirujas por su facilidad de uso, pero no para comunicaciones sensibles.
+
+Ver el hilo sobre apps de chat seguras en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=528>
+
+### Debloatear Android sin flashear ROM
+
+Si no querés (o no podés) instalar una ROM personalizada, podés mejorar mucho la privacidad y el rendimiento de tu Android eliminando las apps preinstaladas del fabricante o del operador con **Universal Android Debloater (UAD)**.
+
+UAD es una interfaz gráfica que conecta tu teléfono por USB (con depuración USB activa) y te permite desinstalar las apps del sistema de forma segura, con lista predefinida por fabricante.
+
+Ver el hilo en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=461>
+
+## SoC y placas de desarrollo
+
+Para proyectos de cacharreo, automatización o servidores caseros, las placas de desarrollo son muy útiles. Hay un repositorio de imágenes de sistemas operativos para distintas placas (Raspberry Pi, Orange Pi, Rock Pi, etc.) documentado en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=441>
 
 \newpage
 
-# Apéndice C: Recursos y contactos
+# Celulares usados: cómo recuperarlos
+
+## El problema: el mercado de celulares
+
+Los celulares son la punta de lanza de la obsolescencia programada. Los fabricantes los diseñan para ser difíciles de reparar (baterías pegadas, tornillos especiales, soldaduras), los operadores los subsidian para atar a los usuarios a contratos, y la industria los descarta a un ritmo de dos años por modelo.
+
+El resultado: millones de celulares "viejos" perfectamente funcionales terminan en cajones o en el circuito informal de venta, mientras las personas más vulnerables digitalmente no pueden acceder a un dispositivo básico.
+
+La alternativa Cyberciruja: **recircular celulares usados**, liberarlos de software privativo, y extender su vida útil con software libre.
+
+## Qué es lo que hace que un celular sea recuperable
+
+No todos los celulares usados valen la pena. Para que valga el esfuerzo, el equipo tiene que:
+
+1. **Tener soporte de ROM personalizada** — que exista una versión de Android libre (LineageOS, /e/OS, GrapheneOS) para ese modelo.
+2. **Tener bootloader desbloqueable** — la mayoría de los Motorola y algunos Samsung lo permiten. Huawei y Apple no.
+3. **Tener buen estado físico** — pantalla sin rayones graves, batería con capacidad razonable, sin daños por agua.
+
+## Conceptos clave antes de comprar
+
+**Procesador:** los más comunes son Snapdragon (Qualcomm) y Exynos (Samsung). Los Snapdragon suelen tener mejor soporte de ROMs. Los MediaTek (Helio) son más difíciles.
+
+**RAM:** para un uso cómodo con Android libre, mínimo 3 GB. Con 2 GB puede funcionar pero con más restricciones.
+
+**Batería:** la capacidad se degrada con el uso. Una batería vieja puede reemplazarse en muchos modelos. Buscar el modelo en iFixit para saber qué tan reparable es.
+
+**gsmarena.com:** el recurso más útil para investigar características técnicas de cualquier modelo antes de comprarlo.
+
+## Qué teléfonos buscar
+
+**Motorola** es la marca más recomendada para recuperar:
+
+- Serie Moto G (G1 al G7, E, Z): buen soporte de ROMs, precio razonable en el mercado de usados, bootloader desbloqueable por método oficial.
+- Modelos específicos bien documentados: Moto G 4G (XT1040), Moto G13, G23.
+- Ver guía paso a paso para Moto G 4G: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=232>
+- Desbloquear bootloader Moto G13 y G23: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=497>
+
+**Samsung** (con precaución):
+
+- Galaxy S6 al S9, J7, A10–A30: modelos con buen soporte.
+- Los modelos más recientes usan Exynos en América del Sur, con soporte más limitado.
+- El desbloqueo del bootloader en Samsung elimina permanentemente Knox (el sistema de seguridad empresarial).
+
+**Xiaomi:**
+
+- Muchos modelos tienen soporte en LineageOS.
+- El desbloqueo del bootloader requiere solicitar un código a Xiaomi (proceso burocrático pero gratuito).
+
+## Qué marcas evitar para recuperación
+
+- **LG**: discontinuó la línea de celulares en 2021, soporte en declive.
+- **Huawei**: bloquea el bootloader sin posibilidad de desbloqueo desde 2018.
+- **TCL, Alcatel, Blu**: poco soporte de ROMs en la comunidad.
+- **Apple**: ecosistema completamente cerrado. Sin opción de ROM libre.
+
+## Qué verificar antes de comprar un celular usado
+
+- **IMEI libre:** verificar en la web del operador o en sitios como imei.info que el equipo no esté reportado como robado.
+- **Liberado de operador:** que no esté bloqueado a una compañía específica.
+- **Sin cuenta de Google vinculada (FRP lock):** si el teléfono tiene activado el "Factory Reset Protection", puede quedar inutilizable después de un reset de fábrica sin la cuenta original. Pedir al vendedor que lo desactive antes de comprar.
+- **Batería:** pedir que muestren el porcentaje de salud o probar con una app de diagnóstico.
+
+## Software libre para celulares
+
+### Opción 1: ROM libre completa
+
+Reemplazar el Android del fabricante por una versión libre y desvinculada de Google.
+
+- **/e/OS (murena.io):** el más accesible para usuarios no técnicos. Interfaz similar al Android original, sin servicios de Google. Disponible para muchos modelos Motorola y Samsung. Usado en el taller de "desgooglelización" del balance 2024 de Cybercirujas.
+- **LineageOS:** el estándar histórico. Amplio soporte de modelos. Más técnico de instalar.
+- **GrapheneOS:** el más enfocado en privacidad y seguridad. Solo para Google Pixel.
+- **Postmarket OS, Maemo Leste, Sailfish OS:** alternativas radicales que reemplazan Android completamente. Experiencia experimental, aptas para cacharreo. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=229>
+
+### Opción 2: Debloatear + F-Droid (más accesible)
+
+Si instalar una ROM completa es demasiado para el contexto (falta de tiempo, riesgo de brickear el equipo, modelo sin ROM compatible), la alternativa más simple es:
+
+1. Usar Universal Android Debloater para eliminar apps del fabricante y del operador.
+2. Instalar F-Droid como tienda de apps libres.
+3. Configurar el dispositivo para minimizar el envío de datos a Google.
+
+Esta opción no elimina el Android del fabricante, pero mejora mucho la privacidad y la autonomía del dispositivo.
+
+### Primeros pasos para modificar un Android
+
+Para quien nunca modificó un teléfono Android, el foro tiene dos guías fundamentales:
+
+- Cómo funciona un equipo Android (conceptos básicos): <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=111>
+- Primeros pasos para modificar un Android: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=114>
+
+## Expectativas y cambio de hábitos
+
+Recuperar un celular con software libre implica un cambio de hábitos:
+
+- Algunas apps del banco o del gobierno pueden no funcionar (están atadas a servicios de Google).
+- Sin Google Play, las apps se instalan desde F-Droid, APKPure u otras fuentes.
+- Las notificaciones pueden funcionar diferente sin los servicios de Google.
+
+El cambio vale la pena a largo plazo: un celular con ROM libre es más rápido, usa menos batería, y puede seguir siendo útil varios años más allá de su "fin de vida oficial".
+
+\newpage
+
+# Residuos electrónicos (RAEE)
+
+## Qué son los RAEE
+
+Los **Residuos de Aparatos Eléctricos y Electrónicos (RAEE)** son todos los dispositivos eléctricos o electrónicos que llegaron al fin de su vida útil: computadoras, celulares, impresoras, televisores, heladeras, lavarropas, y cualquier aparato con circuitos o componentes eléctricos.
+
+Son una de las corrientes de residuos de más rápido crecimiento a nivel mundial. Y son peligrosos: contienen plomo (en soldaduras), mercurio (en pantallas CCFL), cadmio (en baterías antiguas), arsénico, cromo hexavalente, y litio (en baterías modernas). Cuando van al relleno sanitario o se queman informalmente, estos materiales contaminan el suelo, el agua subterránea y el aire.
+
+## El marco legal en Argentina
+
+**A nivel nacional:** Argentina no tiene una ley nacional específica para la gestión de RAEE. A lo largo de la última década se presentaron varios proyectos de ley basados en el principio de "responsabilidad extendida del productor" (que los fabricantes se hagan cargo del fin de vida de sus productos), pero ninguno fue aprobado.
+
+Como referencia técnica existe el **Manual sobre gestión integral de RAEE en Argentina** (2020), elaborado por el Ministerio de Ambiente y Desarrollo Sostenible junto a la OIT, pero carece de poder regulatorio vinculante.
+
+**A nivel provincial:** La provincia de Buenos Aires cuenta con la **Ley 14.321** (2011), que establece pautas para la gestión de RAEE en su territorio. Otras provincias tienen marcos incompletos o inexistentes.
+
+## El derecho a reparar
+
+En la Unión Europea, la directiva de "diseño ecológico" obliga a los fabricantes a proveer repuestos y manuales de reparación durante 7 a 10 años. **Francia** fue más lejos: implementó un **índice de reparabilidad** obligatorio (del 1 al 10) que debe mostrarse en cada producto electrónico.
+
+En Argentina, algunos proyectos de ley buscan consagrar el derecho a reparar (acceso a repuestos, manuales y herramientas de diagnóstico), pero ninguno prosperó hasta la fecha.
+
+En ese vacío legal, movimientos como Cybercirujas **ejercen y promueven de facto el derecho a reparar**: reparan lo que los fabricantes no quieren que repares, extienden la vida de lo que el mercado quiere que descartes, y comparten el conocimiento que la industria prefiere que sea privado.
+
+## Dónde llevar los residuos electrónicos en Córdoba
+
+Cuando un equipo no puede recuperarse más, no va a la basura común. Opciones en Córdoba:
+
+**Centros de Participación Comunal (CPC):** algunos CPC de la ciudad de Córdoba reciben RAEE de 8:30 a 13:30 horas:
+
+- Centro América
+- Monseñor Pablo Cabrera
+- Argüello
+- Villa El Libertador
+- Empalme
+- (ver página de la municipalidad para lista actualizada)
+
+**Centros de Transferencia de Residuos:** monitores, televisores incompletos y residuos de línea blanca pueden llevarse a los centros de Rancagua y Villa Unión, de 8:00 a 20:00 horas.
+
+**Camión municipal de RAEE:** la municipalidad de Córdoba opera un camión que recoge RAEE en puntos fijos. Consultá el calendario en la web municipal.
+
+**Al final de la Olla Popular:** lo que queda sin dueño al final de la olla se entrega al camión municipal que pasa regularmente por el evento.
+
+## Qué hacer con baterías y celulares
+
+Las baterías de litio son especialmente peligrosas si se perforan o se tiran al fuego. No van a la basura común. En algunos supermercados y tiendas de electrónica hay puntos de recolección de baterías.
+
+Los celulares viejos, si no se van a recuperar, deben ir a operadores de RAEE certificados, no a la basura.
+
+## El circuito responsable de Cybercirujas
+
+La olla popular, la reparatona y el installfest son el primer circuito de recuperación. Lo que pasa por esas etapas y no puede recuperarse, no desaparece: va a un circuito de RAEE responsable. Ese circuito completo —desde el hardware en desuso hasta el residuo responsable— es lo que hace de Cybercirujas una práctica genuinamente ecológica, y no solo técnica.
+
+\newpage
+
+# PARTE 4 — Cacharreo, arte y cultura Cyberciruja {.unnumbered}
+
+\newpage
+
+# El cacharreo como práctica
+
+## Perdido por perdido
+
+Hay una frase que resume el espíritu del cacharreo Cyberciruja: **"perdido por perdido"**. Una computadora anegada, un teléfono que no enciende, una impresora vieja que nadie quiere: ya están "perdidas". ¿Qué puede salir mal de abrirlas, desarmarlas, ver qué hay adentro?
+
+Esa habilitación para experimentar sin miedo es el punto de partida del cacharreo. No se aprende a reparar leyendo manuales: se aprende abriendo cosas, rompiendo cosas (que ya estaban rotas), y a veces, con suerte, arreglando cosas.
+
+El cacharreo no es solo una etapa de aprendizaje. Es una actitud permanente ante los objetos tecnológicos: la negativa a aceptarlos como cajas negras, la curiosidad que abre carcasas, la creatividad que encuentra usos inesperados.
+
+## Del técnico al creador
+
+El cacharreo tiene dos momentos distintos pero conectados:
+
+**El primero** es técnico: entender cómo funciona el objeto, qué componentes tiene, qué se puede hacer con ellos. Este momento es el de la reparación, el diagnóstico, el aprendizaje.
+
+**El segundo** es creativo: una vez que entendés cómo funciona, podés imaginar usos que el fabricante nunca imaginó. Este momento es el del arte, del juego, del invento.
+
+El ejemplo perfecto de ese doble movimiento es el hackeo de postnets en el foro Cyberciruja. Un terminal de pago desechado se convirtió en material de exploración: cámara Polaroid, impresora de fanzines, terminal de videojuego. Diecisiete mensajes de un hilo del foro documentando ese proceso colectivo de imaginación técnica. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=329>
+
+## La convocatoria: Desafío Retrocómputo
+
+En 2025, el foro Cyberciruja lanzó el **Desafío Retrocómputo**: una convocatoria a proyectos realizados con hardware de 20 o más años. La idea es simple: ¿qué podés hacer hoy con una máquina de 2005 o antes?
+
+Las propuestas recibidas van desde servidores caseros hasta consolas retro, pasando por instalaciones artísticas y herramientas de trabajo. El desafío demuestra que la obsolescencia es una convención, no una realidad técnica.
+
+Si tenés un proyecto así, la convocatoria sigue abierta en el subforo de Proyectos del foro.
+
+## Cómo empezar a cacharrear
+
+1. **Conseguí el objeto.** La olla popular de hardware es un buen lugar de inicio: objetos que nadie quiere y que son perfectos para experimentar.
+2. **Documentá antes de empezar.** Sacá fotos, anotá el modelo, buscá información en el foro y en internet. Saber qué tenés antes de abrirlo ahorra muchos errores.
+3. **Abrilo.** Con cuidado, con las herramientas adecuadas, sin forzar. Identificá los componentes.
+4. **Preguntá.** El foro y el grupo de Telegram son espacios para preguntar "¿qué es esto?", "¿para qué sirve este chip?", "¿alguien tiene experiencia con este modelo?". Nadie sabe todo; entre todes sabemos bastante.
+5. **Documentá el proceso.** Publicá lo que aprendiste. Esa documentación es un regalo para quien venga después.
+
+## Mini proyecto: cuadro luminoso con LEDs
+
+Un proyecto de entrada accesible para quienes quieren empezar a cacharrear con electrónica:
+
+**Lo que necesitás:** una tira LED de bajo consumo (las de 12V DC son comunes y baratas), una fuente de alimentación de 12V, un marco de cuadro, y la imagen o diseño que querés iluminar.
+
+**El proceso:**
+1. Diseñar o elegir la imagen que va a ir en el cuadro.
+2. Cortar la tira LED al tamaño necesario para rodear o iluminar el diseño.
+3. Conectar los LEDs a la fuente de alimentación (respetando polaridad).
+4. Montar todo en el marco.
+
+Este proyecto introduce los conceptos básicos de circuitos de baja tensión, conexiones simples y trabajo con materiales reciclados. Ver el hilo original en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=208>
+
+## Proyectos avanzados: notebook como servidor o router
+
+Una notebook vieja puede tener una segunda vida muy diferente a ser "una computadora más":
+
+- **Router/Firewall:** instalando OPNsense, una notebook puede convertirse en un router de alta performance con VPN, firewall avanzado y control de tráfico. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=458>
+- **Homelab:** con k3s o k8s lite, una notebook puede ser un servidor de desarrollo personal.
+- **Servidor de medios:** Jellyfin + Linux liviano = un servidor de streaming doméstico.
+
+Los TouchPads de laptops también se pueden reutilizar como periféricos independientes conectados por USB. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=415>
+
+\newpage
+
+# Retrocómputo
+
+## Por qué el hardware viejo importa
+
+Una computadora de 1995 no es un objeto muerto: es un objeto que sobrevivió. Tiene historia. Tiene una arquitectura que podés estudiar hasta comprenderla completamente, cosa que no podés hacer con un procesador moderno de miles de millones de transistores.
+
+El retrocómputo —trabajar con hardware de 20, 30 o más años— importa por varias razones:
+
+- **Memoria cultural:** el hardware antiguo es parte del patrimonio tecnológico y cultural. Los primeros videojuegos, las primeras redes, los primeros sistemas operativos, se corrieron en esas máquinas.
+- **Resistencia al descarte:** si una máquina de 1990 todavía puede hacer algo útil, no hay razón para desecharla.
+- **Aprendizaje profundo:** los sistemas viejos son más comprensibles en su totalidad. Podés leer el código de una BIOS de los 90, entender el ciclo de instrucciones de un Z80 o el sistema de archivos FAT12. Con hardware moderno eso es imposible.
+- **Experimentación sin riesgo:** una máquina vieja que ya está "perdida" es el espacio ideal para aprender sin miedo.
+
+## Qué se puede hacer con una máquina de 20 años
+
+Mucho más de lo que parece:
+
+- **Servidor de archivos simple** (Samba) — una máquina con Pentium III y Linux puede servir archivos a toda la red local.
+- **Emulador de consolas** — un Pentium 4 puede emular SNES, Genesis, y muchas plataformas más con RetroPie o RetroArch.
+- **Terminal de texto** — para escribir, programar, aprender comandos. Sin distracciones.
+- **Consola de retrogaming** — para jugar los juegos que se diseñaron para esa época de hardware.
+- **Plataforma de aprendizaje** — para entender cómo funciona un sistema operativo desde abajo.
+
+## Los orígenes: el Club del Cybercirujeo
+
+Todo empezó antes de que Cybercirujas tuviera nombre. En 2019, en el Teatro Mandril de Buenos Aires, Sergio Rondán y el colectivo de trabajadores del teatro recuperaron una computadora 486 desechada en la calle. La idea: crear una sala de videojuegos retro de acceso comunitario. Esa experiencia —mezcla de retrogaming, recuperación de hardware y comunidad— plantó las semillas de lo que sería Cybercirujas.
+
+## La PDC32: la computadora que desafía todo
+
+En el Primer Encuentro Federal de 2023, Roberto Gudiño (Córdoba) presentó la **PDC32**: una computadora construida completamente desde cero, con componentes reciclados, sin usar ninguna CPU comercial.
+
+La PDC32 está construida con **lógica discreta**: los circuitos lógicos están hechos de transistores, compuertas AND/OR/NOT discretas, sin ningún chip de CPU. Es, en términos de complejidad, lo que los ingenieros hacían en los años 60 antes de que existieran los microprocesadores.
+
+Sus características:
+
+- **90% de componentes reciclados** de otras placas y equipos.
+- Pistas trazadas a mano sobre la placa.
+- BIOS, sistema operativo, ensamblador y filesystem desarrollados desde cero.
+- Emulador de código abierto disponible: [github.com/gzalo/pdc32-emu](https://github.com/gzalo/pdc32-emu)
+
+La PDC32 es un hito del movimiento: demuestra que el conocimiento para construir una computadora desde la electrónica básica puede estar en manos de cualquiera con paciencia, curiosidad y componentes reciclados.
+
+Ver el hilo completo en el foro: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=311>
+
+> **[TAREA COMUNIDAD]** Este capítulo puede enriquecerse con guías técnicas específicas para plataformas como Commodore 64, MSX, ZX Spectrum, o la propia PDC32. Si tenés experiencia con alguna de estas plataformas, publicá en el subforo de Retro informática.
+
+## Plataformas populares en el retrocómputo
+
+**Commodore 64:** la computadora personal más vendida de la historia. Sigue teniendo una comunidad activa de desarrollo de software y hardware. Muchos de sus chips son reemplazables con clones modernos.
+
+**ZX Spectrum:** la plataforma que democratizó la programación en el Reino Unido en los 80. Influenció a toda una generación de programadores.
+
+**MSX:** estándar japonés de los 80, muy popular en Argentina. Muchas escuelas tenían MSX.
+
+**Famiclones:** las copias no oficiales de la NES fueron muy populares en América Latina. Reparar y modificar famiclones es una práctica muy documentada en el foro regional.
+
+**Para límites del hardware moderno:** si tenés una máquina con Pentium 4 y 512 MB de RAM, el foro tiene un hilo específico sobre qué sistemas operativos funcionan bien en ese rango: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=146>
+
+\newpage
+
+# Arte electrónico
+
+## Tecnología como medio de expresión
+
+Cybercirujas no es solo un movimiento técnico. Desde sus primeros encuentros, el arte electrónico fue parte estructural: la fiesta del Encuentro Federal de 2023 incluyó música chiptune, el de 2024 tuvo audiovisuales con live coding, el de 2025 convocó videojuegos argentinos independientes.
+
+Esta dimensión artística no es decorativa: es política. Usar hardware recuperado para crear arte es otra forma de afirmar que esas máquinas viven, que su vida no terminó cuando el mercado las descartó.
+
+## Chiptune: música con chips viejos
+
+El **chiptune** es un género musical que usa los chips de sonido de computadoras y consolas de los 80 y 90 para crear música. No es nostalgia: es una disciplina con técnicas propias, comunidad activa y estética reconocible.
+
+**Herramientas para hacer chiptune:**
+
+- **LSDJ (Little Sound DJ):** software para Game Boy. El Game Boy original tiene un chip de sonido con cuatro canales que genera sonidos únicos. LSDJ convierte la Game Boy en un instrumento musical.
+- **FamiTracker:** tracker para componer música en el estilo del chip de la NES (2A03). Disponible para Windows, con alternativas multiplataforma.
+- **Deflemask:** tracker multiplataforma que soporta chips de múltiples consolas (Genesis, NES, GBC, etc.).
+- **VCV Rack:** sintetizador modular por software, libre y extensible. No es estrictamente chiptune pero se integra bien con el ecosistema.
+
+**Chiptune en los Encuentros Federales:** en el Primer Encuentro Federal (Córdoba, 2023) hubo una intervención musical de género chiptune. En el Segundo (Rosario, 2024) la fiesta del cierre incluyó música chiptune y videojuegos arcade.
+
+> **[TAREA COMUNIDAD]** Este capítulo puede enriquecerse con nombres y proyectos de artistas de la escena chiptune y arte electrónico de la comunidad cyberciruja argentina. Si hacés arte con hardware recuperado, publicá tu proyecto en el blog o en el foro.
+
+## Demoscene: arte generativo en tiempo real
+
+La **demoscene** es una cultura artística surgida en los 80: crear demostraciones visuales y sonoras que corran en tiempo real, generalmente con limitaciones de hardware extremas. Una demo no es un video pregrabado: es un programa que genera todo en vivo.
+
+En Argentina la demoscene tiene historia desde la época del Commodore 64 y el Amiga. La comunidad actual es pequeña pero activa.
+
+## Live coding
+
+El **live coding** es la práctica de escribir código en tiempo real, en público, generando música o visuales en el proceso. La pantalla con el código es parte de la performance.
+
+**Herramientas:**
+
+- **Hydra** (visuales): [hydra.ojack.xyz](https://hydra.ojack.xyz) — generador de visuales en el navegador.
+- **TidalCycles** (música): sistema de live coding musical basado en Haskell, muy popular en la escena experimental.
+- **SuperCollider:** entorno de programación para síntesis de audio en tiempo real. Potente y complejo.
+
+## Instalaciones con hardware recuperado
+
+Las instalaciones artísticas que usan hardware recuperado son una expresión directa del espíritu Cyberciruja: objetos que "ya no sirven" convertidos en objetos de reflexión y experiencia estética.
+
+Algunos ejemplos del movimiento:
+
+- Postnets hackeadas que reproducen imágenes como cámaras Polaroid.
+- Componentes de computadora ensamblados como esculturas o artesanías.
+- Pantallas de monitores viejos con imágenes generativas.
+
+En el Tercer Encuentro Federal (Buenos Aires, 2025) hubo un taller específico de artesanías con partes de computadora.
+
+## Pixel art y text art
+
+El **pixel art** es la creación de imágenes con píxeles individuales visibles, estética heredada de las limitaciones de las pantallas de baja resolución de los 80 y 90. Tiene una comunidad creativa enorme y es parte visual de la identidad Cyberciruja.
+
+El **text art** (arte ASCII o ANSI) crea imágenes usando caracteres de texto. Fue el formato visual dominante en los BBS y terminales de la época pre-gráfica.
+
+Ambas estéticas conviven naturalmente con el espíritu retro y hacker del movimiento.
+
+\newpage
+
+# Videojuegos libres e independientes
+
+## El videojuego como práctica cultural
+
+El videojuego no es solo entretenimiento: es un medio de expresión, un lenguaje, una forma de crear mundos y de pensar situaciones que de otro modo serían difíciles de imaginar. La industria del videojuego commercial reproduce muchas de las lógicas que criticamos: microtransacciones, DRM, plataformas cerradas, obsolescencia deliberada.
+
+La alternativa existe y es vibrante: **videojuegos libres, independientes y de distribución abierta**.
+
+## Emulación: dar vida a lo que ya no tiene soporte
+
+La emulación es la práctica de hacer correr software de plataformas antiguas en hardware moderno. Es, en muchos sentidos, el retrocómputo aplicado a los videojuegos: preservar el patrimonio cultural lúdico antes de que se pierda.
+
+**Herramientas principales:**
+
+- **RetroArch:** frontend unificado que incluye emuladores para docenas de plataformas. Corren en casi cualquier hardware, incluyendo Raspberry Pi y netbooks Conectar Igualdad.
+- **MAME:** emulador especializado en máquinas arcade. El archivo de la historia del arcade.
+- **RetroPie:** distribución Linux pensada para convertir una Raspberry Pi (o una laptop vieja) en una consola retro. Compatible con Cirujantix en netbooks G4.
+
+La emulación es legal en la mayoría de los países para ROMs de sistemas que ya no tienen soporte comercial activo.
+
+## Videojuegos nativos Linux gratuitos
+
+Muchos juegos funcionan de forma nativa en Linux, sin necesidad de emulación ni de Steam/Proton:
+
+- **0 A.D.** — estrategia en tiempo real de código abierto.
+- **SuperTuxKart** — juego de carreras con personajes del software libre.
+- **Xonotic** — shooter en primera persona muy completo y libre.
+- **Battle for Wesnoth** — estrategia por turnos con campaña larga.
+- **Teeworlds/DDraceNetwork** — plataforma 2D multijugador, muy activo.
+- **OpenRA** — reconstrucción libre de los clásicos de Command & Conquer.
+
+Ver el hilo del foro con catálogo de videojuegos nativos gratuitos para Linux: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=479>
+
+## Videojuegos indie argentinos
+
+Argentina tiene una escena de desarrollo de videojuegos independientes notable. En el Tercer Encuentro Federal (2025) se convocó específicamente a videojuegos argentinos independientes.
+
+El motor **Godot Engine** es el favorito de la escena indie libre: es completamente de código abierto, muy capaz, y tiene una comunidad activa en español.
+
+> **[TAREA COMUNIDAD]** Se necesita una lista curada de videojuegos argentinos indie libres o gratuitos para incluir aquí. Si conocés proyectos, publicalos en el foro o comunicate con la comunidad.
+
+## Cómo armar una LAN party con netbooks recuperadas
+
+Una LAN party es una reunión para jugar en red local. Con netbooks recuperadas de Conectar Igualdad o laptops de reparatona, se puede organizar una LAN party completamente con hardware y software libre:
+
+**Lo que necesitás:**
+- 4 o más netbooks/laptops funcionando con Linux.
+- Un router o switch para conectarlas en red local.
+- Juegos con modo multijugador local en red (0 A.D., Teeworlds, Xonotic, OpenRA).
+- Una zapatilla larga para cargar todo.
+
+**El proceso:**
+1. Conectar todos los equipos a la misma red local (WiFi o cable).
+2. En 0 A.D., uno crea la partida como anfitrión; el resto se une ingresando la IP del anfitrión.
+3. Jugar.
+
+Este formato funciona muy bien en ferias, reparatones y encuentros Cyberciruja: convoca a infancias y jóvenes que de otra manera no participarían, y demuestra que el software libre también puede ser divertido.
+
+\newpage
+
+# Fanzines
+
+## Comunicar sin permiso
+
+Un **fanzine** es una publicación autogestionada, de circulación libre, producida sin intermediarios ni permisos. El nombre viene del inglés *fan magazine*: revistas hechas por fanáticos para fanáticos. Pero el formato fue adoptado por movimientos políticos, comunidades artísticas y colectivos contraculturales de todo tipo.
+
+Hacer un fanzine no requiere imprenta, editorial ni capital. Requiere algo que decir y el deseo de decirlo.
+
+Los fanzines tienen historia larga en los movimientos de software libre, en el punk, en el feminismo, en los círculos hackers. Son herederos de las redes de distribución analógicas: papel, fotocopiadora, buzón de correo.
+
+## Los fanzines del movimiento
+
+**Actualidad Cyberciruja / Zona Warpa:** producido en alianza con un colectivo hacktivista italiano. Edición bilingüe (español e italiano). Distribuido de forma impresa en eventos, por correo y en internet. Disponible en: [nextcloud.cybercirujas.club/s/F9jaYbbsxNekkQK](https://nextcloud.cybercirujas.club/s/F9jaYbbsxNekkQK)
+
+**Tikezin:** fanzine impreso en una **tiqueadora recuperada y hackeada** por una integrante del colectivo. El proceso de producción es en sí mismo un acto de cacharreo: hackear una impresora de tickets para convertirla en una impresora de fanzines es tan Cyberciruja como instalar Linux. Dos números editados, distribución presencial y por correo. Disponible en: [archive.org/details/tikezin-n-1-nov-2024](https://archive.org/details/tikezin-n-1-nov-2024)
+
+**Fanzine nº1 de Cybercirujas:** el primer fanzine del movimiento (abril 2024), disponible en el repositorio del colectivo.
+
+## Paso a paso: cómo hacer tu propio fanzine
+
+### Decidir el formato
+
+El formato más clásico y accesible es el **A4 doblado en cuarto**: una hoja A4 doblada dos veces da un folleto de 8 páginas que puede imprimirse en una fotocopiadora normal.
+
+Otros formatos:
+- **Media carta (A5):** más grande, más páginas.
+- **Tira larga:** una hoja doblada en acordeón.
+- **Tarjeta de visita:** muy pequeño, para distribución masiva.
+
+### Contenido
+
+No hay reglas. Un fanzine puede tener:
+- Texto: artículos, reflexiones, poesía, instrucciones, entrevistas.
+- Imágenes: dibujos a mano, collages, pixel art, fotografías.
+- Mezclas de todo lo anterior.
+
+Lo importante es que sea tuyo. El fanzine cyberciruja típico mezcla política tecnológica con humor, instrucciones técnicas con reflexiones culturales, y todo con estética DIY.
+
+### Producción
+
+1. **Diseñar en papel:** bocetá las páginas en papel antes de pasar a la computadora. Es más rápido y más libre.
+2. **Maquetar digitalmente (opcional):** Scribus (libre) o LibreOffice Writer sirven para maquetar. Para cosas más simples, un editor de imágenes o texto alcanza.
+3. **Imprimir y doblar:** en casa, en un ciber, o en una fotocopiadora del barrio. Muchas veces se imprime en la fotocopiadora de alguna organización amiga.
+4. **Distribuir:** en la mano, en eventos, por correo postal, como PDF por internet. Todas las opciones son válidas.
+
+### La tiqueadora como imprenta
+
+El proyecto Tikezin demostró algo que parecía imposible: que una impresora térmica de tickets (de las que usan los supermercados y las remiserías) puede hackarse para imprimir fanzines. La impresora, recuperada y modificada, se convierte en una imprenta compacta, barata y portátil. Es cacharreo aplicado a la comunicación política.
+
+\newpage
+
+# Apéndice A: Glosario {.unnumbered}
+
+**AHCI** (*Advanced Host Controller Interface*): modo de controladora de disco para unidades SATA. En la BIOS/UEFI, es necesario activarlo para que Linux detecte los discos NVMe en algunos equipos. Se opone al modo RAID/Intel RST.
+
+**Android libre**: versión de Android sin los servicios propietarios de Google (GMS). Incluye distribuciones como /e/OS, LineageOS y GrapheneOS.
+
+**AntiX**: distribución Linux muy liviana, basada en Debian, pensada para hardware antiguo. Base de Cirujantix.
+
+**BIOS** (*Basic Input/Output System*): firmware que inicializa el hardware cuando se enciende una computadora. En equipos modernos fue reemplazada por UEFI.
+
+**Bootloader**: programa que se ejecuta antes del sistema operativo y permite elegir qué sistema iniciar. El más común en Linux es GRUB.
+
+**Cacharreo**: práctica de exploración, experimentación y modificación de hardware o software sin miedo a romper lo que ya está roto. Actitud central del movimiento Cyberciruja.
+
+**CCFL** (*Cold Cathode Fluorescent Lamp*): tecnología de iluminación de pantallas LCD antigua. Fue reemplazada por LEDs. Las pantallas CCFL pueden convertirse a LED con kits de conversión.
+
+**Célula**: grupo local autogestionado que comparte la filosofía de Cybercirujas y organiza actividades en su territorio.
+
+**CH341a**: programador de chips de BIOS/EEPROM de bajo costo. Herramienta fundamental en el kit de desbloqueo de equipos Cyberciruja.
+
+**Chiptune**: género musical que utiliza los chips de sonido de computadoras y consolas de los 80 y 90 para crear música.
+
+**Cirujantix**: distribución Linux desarrollada por la comunidad Cyberciruja, basada en AntiX, pensada para netbooks Conectar Igualdad (G1/G2/G3) y hardware muy antiguo.
+
+**Conectar Igualdad**: programa del gobierno argentino (2010–2018) que distribuyó netbooks a estudiantes de secundaria pública. Los equipos tenían BIOS bloqueada.
+
+**Copyleft**: tipo de licencia de software libre que garantiza que cualquier obra derivada mantenga las mismas libertades que el original. Mecanismo legal que protege la libertad del software.
+
+**DDR** (*Double Data Rate*): tipo de memoria RAM. Las generaciones más comunes son DDR2, DDR3 y DDR4. Una DDR3 de 4 GB es el mínimo razonable para Linux con escritorio gráfico.
+
+**Debloatear**: eliminar las aplicaciones preinstaladas ("bloatware") de un dispositivo Android, especialmente las del fabricante o del operador, para mejorar el rendimiento y la privacidad.
+
+**Demoscene**: subcultura artística de creación de demostraciones visuales y sonoras en tiempo real, generalmente con limitaciones de hardware extremas.
+
+**Distro** (distribución Linux): variante de Linux empaquetada con un conjunto específico de herramientas y configuraciones. Ejemplos: Ubuntu, Mint, AntiX, Cirujantix.
+
+**Dual boot**: configuración en la que dos sistemas operativos conviven en el mismo disco y el usuario elige cuál usar al encender la máquina.
+
+**eDP** (*Embedded DisplayPort*): interfaz de video moderna para pantallas de laptops. Con una controladora eDP es posible convertir una pantalla de laptop en un monitor independiente.
+
+**/e/OS** (ahora Murena OS): distribución Android sin servicios de Google, mantenida por la organización /e/Foundation. Enfocada en privacidad y facilidad de uso.
+
+**F-Droid**: tienda de aplicaciones de código abierto para Android. Alternativa libre a Google Play.
+
+**Fanzine**: publicación autogestionada, de circulación libre, producida sin intermediarios ni permisos. Forma de comunicación DIY.
+
+**FSF** (*Free Software Foundation*): organización sin fines de lucro que promueve el software libre. Fundada por Richard Stallman en 1985.
+
+**GRUB** (*Grand Unified Bootloader*): bootloader estándar en la mayoría de las distribuciones Linux. Permite elegir el sistema operativo al arrancar.
+
+**HDD** (*Hard Disk Drive*): disco rígido mecánico. Más lento que el SSD pero más barato por gigabyte. En equipos viejos, reemplazarlo por un SSD mejora enormemente el rendimiento.
+
+**IMEI** (*International Mobile Equipment Identity*): número de identificación único de cada celular. Se usa para verificar si un equipo fue reportado como robado.
+
+**Installfest**: evento dedicado a instalar Linux en computadoras, típicamente con atención personalizada de voluntarios.
+
+**ISO**: archivo de imagen de un disco óptico (CD/DVD) que contiene un sistema operativo completo. Se graba en un pendrive para instalar o probar Linux.
+
+**Live USB**: pendrive con un sistema operativo completo que permite arrancar y usar Linux sin instalarlo en el disco.
+
+**Live coding**: práctica artística de programar en tiempo real y en público, generando música o visuales en el proceso.
+
+**MBR** (*Master Boot Record*): tabla de particiones antigua. Usada en equipos con BIOS Legacy. Soporta discos de hasta 2 TB y hasta 4 particiones primarias.
+
+**Obsolescencia postergada**: concepto opuesto a la obsolescencia programada. Práctica de extender la vida útil de los equipos con software libre, reparación y reutilización.
+
+**Olla popular de hardware**: evento Cyberciruja donde circula hardware en desuso sin intercambio económico ni trueque.
+
+**Pixel art**: arte creado con píxeles individuales visibles, heredero de las limitaciones gráficas de los años 80 y 90.
+
+**RAEE** (*Residuos de Aparatos Eléctricos y Electrónicos*): categoría de residuos peligrosos que incluye computadoras, celulares, pantallas y cualquier aparato con circuitos electrónicos.
+
+**RAM** (*Random Access Memory*): memoria de acceso aleatorio. La memoria de trabajo de la computadora. Insuficiente RAM es la causa más común de lentitud en equipos viejos.
+
+**Reparatona**: evento Cyberciruja de autoreparación acompañada de hardware y software, con inscripción previa.
+
+**Retrocómputo**: práctica de usar, recuperar y explorar hardware de computadoras antiguas (20 años o más).
+
+**ROM** (en el contexto de celulares): versión personalizada del sistema operativo Android. Permite reemplazar el Android del fabricante por una versión libre.
+
+**SoC** (*System on a Chip*): circuito integrado que combina procesador, GPU, memoria y otros componentes en un solo chip. Común en teléfonos y placas de desarrollo (Raspberry Pi, Orange Pi).
+
+**Soberanía tecnológica popular**: capacidad de las personas y comunidades de comprender, controlar y modificar las tecnologías que usan, más allá del mero acceso.
+
+**SSD** (*Solid State Drive*): disco de estado sólido. Más rápido, más silencioso y más resistente que el HDD. Reemplazar el HDD por un SSD es la mejora de rendimiento más impactante en equipos viejos.
+
+**TPM** (*Trusted Platform Module*): chip de seguridad que almacena claves criptográficas. En algunas generaciones de netbooks Conectar Igualdad, está involucrado en el bloqueo de BIOS.
+
+**UEFI** (*Unified Extensible Firmware Interface*): sucesor moderno del BIOS. Presente en equipos con Windows 8 en adelante. Tiene Secure Boot, modo de 32 o 64 bits, y soporte para discos GPT de más de 2 TB.
+
+**Ventoy**: herramienta que convierte un pendrive en un menú de arranque con múltiples ISOs. Estándar en el kit de instalación de Cybercirujas.
+
+\newpage
+
+# Apéndice B: Preguntas frecuentes {.unnumbered}
+
+## Sobre Cybercirujas
+
+**¿Qué son los Cybercirujas?**
+Cybercirujas es un colectivo y movimiento social que lucha contra la obsolescencia programada, promoviendo la recuperación, reparación y reutilización de dispositivos tecnológicos en desuso. Busca reducir el impacto ambiental de los residuos electrónicos y la brecha digital a través de la acción comunitaria y el software libre.
+
+**¿Tienen un local físico?**
+No. Somos un colectivo de voluntarios que se reúne en eventos públicos. En Córdoba, el punto de encuentro regular es la Feria Agroecológica de la UNC el último sábado de cada mes.
+
+**¿Cómo me puedo sumar?**
+Viniendo a la Olla Popular Cyberciruja de tu ciudad, uniéndote al grupo de Telegram nacional, o simplemente escribiéndonos. No hace falta saber de computadoras para participar.
+
+**¿Puedo organizar una célula en mi ciudad?**
+Sí. No hace falta permiso de nadie. Solo hace falta el deseo de hacerlo y conectarse a la red para no estar solos. Ver Capítulo 2.
+
+## Sobre la Olla Popular de Hardware
+
+**¿Cuándo es la olla en Córdoba?**
+El último sábado de cada mes, de 9 a 13 horas, en la Feria Agroecológica de la UNC (Ciudad Universitaria).
+
+**¿Qué puedo traer?**
+Computadoras, notebooks, teclados, mouses, monitores, cargadores, cables, impresoras, celulares, y cualquier hardware que ya no usés. Para monitores y televisores, conviene consultar antes en el grupo de Telegram porque pueden ser difíciles de reubicar.
+
+**¿Cómo funciona? ¿Es un trueque?**
+No es trueque ni venta. Traés lo que no usás, llevás lo que necesitás. Si hay más de una persona interesada en el mismo objeto, se decide por juego o sorteo.
+
+**¿Pueden pasar a buscar donaciones?**
+No contamos con transporte para recoger donaciones. Si no podés transportarlo vos, consultá en el grupo de Telegram si algún voluntario puede ayudarte.
+
+**¿Qué pasa con lo que queda sin dueño?**
+Lo recoge un camión de la municipalidad de Córdoba para el tratamiento de residuos electrónicos.
+
+## Sobre residuos electrónicos
+
+**¿Dónde puedo llevar mis residuos electrónicos si no puedo ir a la feria?**
+En Córdoba, podés llevarlos a los Centros de Participación Comunal (CPC): Centro América, Monseñor Pablo Cabrera, Argüello, Villa El Libertador, Empalme, entre otros. Horario: 8:30 a 13:30 horas.
+
+Para monitores, televisores y línea blanca: Centros de Transferencia de Rancagua y Villa Unión, de 8:00 a 20:00 horas.
+
+**¿Puedo tirar la computadora vieja a la basura común?**
+No. Las computadoras contienen materiales contaminantes (plomo, mercurio, cadmio) que no deben ir al relleno sanitario. Llevala a un punto de recolección habilitado o a la olla.
+
+## Sobre reparaciones
+
+**¿Hacen reparaciones como colectivo?**
+No. La olla popular no es un espacio de reparación. Las reparaciones ocurren en la reparatona, y son de autoreparación acompañada: la persona trabaja su propio equipo con acompañamiento técnico.
+
+**¿Liberan o reparan netbooks del gobierno?**
+Como colectivo no ofrecemos ese servicio, pero en la comunidad hay personas con experiencia en desbloqueo de netbooks Conectar Igualdad. Preguntá en el grupo de Telegram.
+
+**¿Instalan Linux en cualquier dispositivo?**
+Intentamos instalar Linux en dispositivos donde es factible. Si el equipo es muy viejo, evaluamos qué distribución liviana puede funcionar. Si no hay solución posible, lo orientamos hacia el circuito de RAEE.
+
+## Sobre participación
+
+**¿Puedo colaborar sin saber de computadoras?**
+Absolutamente. La olla necesita personas para la mesa de recepción, para explicar cómo funciona el evento, para difundir, para registrar, para organizar. Muchas de las tareas más importantes no son técnicas.
+
+**¿Cómo organizo una actividad o charla con Cybercirujas?**
+Escribinos por Telegram o Instagram. Nos gusta colaborar con otras organizaciones y proyectos.
+
+**¿Puedo cambiar un dispositivo donado por otro que funcione mejor?**
+No hay intercambios directos. Pero podés traer algo que no usás y llevarte algo que sí necesitás, sin que sean necesariamente equivalentes.
+
+## Sobre Linux y software
+
+**¿Qué versión de Linux recomiendan?**
+Depende del hardware. Para equipos modernos: Ubuntu 24.04 LTS. Para equipos modestos: Linux Mint XFCE. Para equipos muy viejos: MX Linux o AntiX. Para netbooks Conectar Igualdad G1/G2/G3: Cirujantix.
+
+**¿Se puede volver a Windows después de instalar Linux?**
+En dual boot sí, elegís al encender. En instalación limpia, solo reinstalando Windows desde cero con una ISO original.
+
+**¿Funcionan WhatsApp y Office en Linux?**
+WhatsApp funciona desde el navegador web. LibreOffice abre y guarda archivos de Office. Microsoft 365 funciona desde el navegador. Zoom y Google Meet tienen cliente para Linux o funcionan en el navegador.
+
+\newpage
+
+# Apéndice C: Recursos y contactos {.unnumbered}
 
 ## Comunidad nacional
 
-- **Blog:** <https://blog.cybercirujas.club>
-- **Foro Rebelión Digital:** <https://cybercirujas.rebelion.digital>
-- **Telegram nacional:** buscar "Cybercirujas" en Telegram o pedir link en el foro.
+- **Blog:** <https://cybercirujas.sutty.nl>
+- **Foro Rebelión Digital:** <https://cybercirujas.rebelion.digital/foro/>
+- **Canal de video (PeerTube):** <https://tube.undernet.uy/c/cybercirujas/videos>
+- **Telegram nacional:** buscar "Cybercirujas" en Telegram o pedir el link en el foro.
 
 ## Cybercirujas Córdoba
 
-- **FAQ y contacto:** <https://mebordone.github.io/cybercirujas.cba.github.io/>
 - **Telegram Córdoba:** <https://t.me/+lZuwd7JnMgY2NmUx>
 - **Olla Popular:** último sábado de cada mes, 9 a 13 hs, Feria Agroecológica UNC.
 
@@ -832,19 +1861,48 @@ sudo apt install firmware-realtek
 - Telegram FLISoL Córdoba: <https://t.me/flisolcba>
 - Matrix: <https://matrix.to/#/!VhuMNXEynEDcgwdOfa:matrix.org>
 
-## Fanzines
+## Desbloqueo de equipos
+
+- Subforo Desbloqueo: <https://cybercirujas.rebelion.digital/foro/viewforum.php?f=5>
+- Guía oficial PBA G1–G10: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=476>
+
+## Software libre
+
+- **Cirujantix:** <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=324>
+- **Ventoy:** <https://www.ventoy.net>
+- **/e/OS (Murena):** <https://murena.com>
+- **LineageOS:** <https://lineageos.org>
+- **GrapheneOS:** <https://grapheneos.org>
+- **F-Droid:** <https://f-droid.org>
+- **Universal Android Debloater:** <https://github.com/0x192/universal-android-debloater>
+
+## Celulares usados
+
+- **gsmarena.com** — ficha técnica de cualquier modelo de celular.
+- **iFixit** — guías de reparación y puntuación de reparabilidad.
+- **XDA Developers (xda-developers.com)** — foros técnicos sobre ROMs y modificaciones de Android.
+
+## Retrocómputo y proyectos
+
+- **Emulador PDC32:** <https://github.com/gzalo/pdc32-emu>
+- **RetroArch:** <https://www.retroarch.com>
+- **Subforo Retro informática del foro Cyberciruja:** <https://cybercirujas.rebelion.digital/foro/viewforum.php?f=16>
+
+## Fanzines del movimiento
 
 - **Tikezin #1:** <https://archive.org/details/tikezin-n-1-nov-2024>
-- **Actualidad Cyberciruja / Zona Warpa:** disponible en eventos y por internet.
+- **Actualidad Cyberciruja / Zona Warpa:** <https://nextcloud.cybercirujas.club/s/F9jaYbbsxNekkQK>
 
 ## Lecturas recomendadas
 
 - Manifiesto Cyberciruja (2021): <https://rebelion.digital/2021/03/05/manifiesto-cyberciruja/>
-- Balance Nacional Cyberciruja 2024: <https://blog.cybercirujas.club/2024/12/24/balance-cyberciruja-de-2024.html>
+- Balance Nacional Cyberciruja 2024: <https://cybercirujas.sutty.nl/2024/12/24/balance-cyberciruja-de-2024.html>
 - Primer Censo Nacional Cyberciruja (Bordone, 2025): <https://mebordone.com.ar/2025/08/08/radiografia-de-un-movimiento-presentamos-el-primer-censo-nacional-cyberciruja/>
+- Nieto, P.S., Bordone, M.E. y Rojo, C. (2025). "El movimiento Cybercirujas de Argentina". Artículo académico.
+- Quintanilla et al. (2017). *Tecnologías entrañables.* Catarata.
 - Stallman, R. M. (2002). *Free Software, Free Society.* GNU Press.
 - Levy, S. (1984). *Hackers: Heroes of the Computer Revolution.* Doubleday.
-- Quintanilla et al. (2017). *Tecnologías entrañables.* Catarata.
+- Winner, L. (1983). "Do artifacts have politics?" *Daedalus*, 109(1).
 
 ---
 
