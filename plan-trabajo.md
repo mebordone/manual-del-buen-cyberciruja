@@ -34,15 +34,23 @@ PARTE 3 — Recircular, reparar, recuperar
 PARTE 4 — Cacharreo, arte y cultura Cyberciruja
   Cap 16. El cacharreo como práctica
   Cap 17. Retrocómputo
-  Cap 18. Arte electrónico
-  Cap 19. Videojuegos libres e independientes
-  Cap 20. Fanzines
+  Cap 18. Arte electrónico y videojuegos    ← fusión de ex-Cap 18 + ex-Cap 19
+  Cap 19. Fanzines                          ← ex-Cap 20
 
 Apéndices
-  A. Glosario (~40 términos)
+  A. Glosario (~45 términos)
   B. Preguntas frecuentes
   C. Recursos y contactos
 ```
+
+---
+
+## Criterios de audiencia por sección
+
+- **Partes 1 y 2:** público general. Cualquier persona sin conocimientos técnicos puede seguirlas.
+- **Parte 3:** complejidad creciente. Arranca accesible (ciclo del hardware) y va aumentando hacia instalación, desbloqueo y celulares. Los capítulos más técnicos incluyen una nota de contexto.
+- **Parte 4:** para quien ya participa en el movimiento. Asume familiaridad con la cultura cyberciruja.
+- **Apéndices:** funcionales y directos, sin asumir nivel técnico.
 
 ---
 
@@ -74,15 +82,32 @@ Genera `output/manual_cyberciruja.pdf` y `output/manual_cyberciruja.epub`.
 
 ---
 
+## Correcciones editoriales aplicadas (abril 2026)
+
+### Estructura
+- **Fusión Cap 18 + Cap 19:** el capítulo de Videojuegos se integró como sección de Arte electrónico. Fanzines pasó a ser Cap 19.
+- **Eliminado duplicado de origen:** la historia de las 486 en la calle (mismo evento que Cap 1) fue quitada de Cap 17 y reemplazada por una referencia cruzada.
+- **Eliminado duplicado del Desafío Retrocómputo:** la mención en Cap 16 fue simplificada; el desarrollo completo queda en Cap 17.
+- **Eliminado duplicado de SAHTI:** explicado una vez en la sección SAMCA de Cap 17; eliminado de "Museos y eventos del campo".
+- **Renombradas secciones "El ecosistema más amplio":** en Cap 17 pasa a llamarse "Museos y eventos del campo"; en Cap 18 queda "Red de colectivos y comunidades".
+
+### Tono y señalización de audiencia
+- Agregada nota de contexto al inicio de Parte 3 y Parte 4 sobre el nivel técnico esperado.
+
+### Fixes menores
+- `ping google.com` reemplazado por `ping -c 3 9.9.9.9` (Quad9, consistente con soberanía tecnológica).
+- Glosario ampliado: FRP lock, circuit bending, ESP32.
+
+---
+
 ## Tareas pendientes para la comunidad
 
 Estas secciones están escritas con contenido base pero esperan enriquecimiento comunitario:
 
 - **Cap 11 (Desbloqueo):** revisar y actualizar tabla de generaciones de netbooks. Guía oficial PBA disponible en el foro (t=476).
-- **Cap 17 (Retrocómputo):** agregar guías técnicas para plataformas específicas (C64, MSX, ZX Spectrum, PDC32).
-- **Cap 18 (Arte electrónico):** nombres y proyectos de artistas de la escena cyberciruja argentina.
-- **Cap 19 (Videojuegos):** lista curada de juegos argentinos indie libres o gratuitos.
+- **Cap 18 (Arte electrónico y videojuegos):** lista curada de videojuegos argentinos indie libres o gratuitos.
 - **Revisión técnica:** caps de Parte 3 revisados por referentes con experiencia directa.
+- **Material visual:** fotos, ilustraciones, folletos y escaneos de fanzines a incorporar en una versión posterior.
 
 ---
 

@@ -528,6 +528,8 @@ A diferencia de la reparatona, el foco en el installfest es casi exclusivamente 
 
 # PARTE 3 — Recircular, reparar, recuperar {.unnumbered}
 
+> Esta parte está pensada para quien ya participa en el movimiento y quiere encarar trabajo técnico: reparar máquinas, instalar Linux, desbloquear equipos. Los primeros capítulos son accesibles para cualquiera; la complejidad técnica va aumentando hacia el final. Está bien saltear secciones y volver cuando hagan falta.
+
 \newpage
 
 # El ciclo del hardware
@@ -1051,7 +1053,7 @@ Al terminar la instalación, reiniciá y verificá:
 
 **Red:**
 ```bash
-ping -c 3 google.com
+ping -c 3 9.9.9.9
 ```
 
 **Sonido:** abrí `pavucontrol` y probá la salida de audio.
@@ -1374,6 +1376,8 @@ La olla popular, la reparatona y el installfest son el primer circuito de recupe
 
 # PARTE 4 — Cacharreo, arte y cultura Cyberciruja {.unnumbered}
 
+> Esta parte es más libre e inspiracional. Está dirigida a quienes quieren ir más allá de la reparación y explorar qué se puede crear con hardware reciclado: desde proyectos electrónicos hasta arte, música, videojuegos y publicaciones. No requiere nivel técnico previo para leerla, pero sí curiosidad y ganas de cacharrear.
+
 \newpage
 
 # El cacharreo como práctica
@@ -1394,15 +1398,7 @@ El cacharreo tiene dos momentos distintos pero conectados:
 
 **El segundo** es creativo: una vez que entendés cómo funciona, podés imaginar usos que el fabricante nunca imaginó. Este momento es el del arte, del juego, del invento.
 
-El ejemplo perfecto de ese doble movimiento es el hackeo de postnets en el foro Cyberciruja. Un terminal de pago desechado se convirtió en material de exploración: cámara Polaroid, impresora de fanzines, terminal de videojuego. Diecisiete mensajes de un hilo del foro documentando ese proceso colectivo de imaginación técnica. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=329>
-
-## La convocatoria: Desafío Retrocómputo
-
-En 2025, el foro Cyberciruja lanzó el **Desafío Retrocómputo**: una convocatoria a proyectos realizados con hardware de 20 o más años. La idea es simple: ¿qué podés hacer hoy con una máquina de 2005 o antes?
-
-Las propuestas recibidas van desde servidores caseros hasta consolas retro, pasando por instalaciones artísticas y herramientas de trabajo. El desafío demuestra que la obsolescencia es una convención, no una realidad técnica.
-
-Si tenés un proyecto así, la convocatoria sigue abierta en el subforo de Proyectos del foro.
+El ejemplo perfecto de ese doble movimiento es el hackeo de postnets en el foro Cyberciruja. Otra expresión de esa misma actitud es el **Desafío Retrocómputo**: proyectos realizados con hardware de 20 o más años, con convocatoria abierta en el subforo del foro (ver Capítulo 17). Un terminal de pago desechado se convirtió en material de exploración: cámara Polaroid, impresora de fanzines, terminal de videojuego. Diecisiete mensajes de un hilo del foro documentando ese proceso colectivo de imaginación técnica. Ver: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=329>
 
 ## Cómo empezar a cacharrear
 
@@ -1451,6 +1447,8 @@ El retrocómputo —trabajar con hardware de 20, 30 o más años— importa por 
 - **Aprendizaje profundo:** los sistemas viejos son más comprensibles en su totalidad. Podés leer el código de una BIOS de los 90, entender el ciclo de instrucciones de un Z80 o el sistema de archivos FAT12. Con hardware moderno eso es imposible.
 - **Experimentación sin riesgo:** una máquina vieja que ya está "perdida" es el espacio ideal para aprender sin miedo.
 
+El retrocómputo no es una práctica paralela al movimiento: es parte de su ADN. El primer impulso de Cybercirujas —en 2019, cuando Soldán y compañía encontraron unas 486 en la vereda y les cargaron videojuegos retro— fue un acto de retrocómputo antes de que el movimiento tuviera nombre (ver Capítulo 1). Esa semilla sigue viva en cada reparatona, en el Desafío Retrocómputo del foro, y en proyectos como la PDC32.
+
 ## Qué se puede hacer con una máquina de 20 años
 
 Mucho más de lo que parece:
@@ -1460,12 +1458,6 @@ Mucho más de lo que parece:
 - **Terminal de texto** — para escribir, programar, aprender comandos. Sin distracciones.
 - **Consola de retrogaming** — para jugar los juegos que se diseñaron para esa época de hardware.
 - **Plataforma de aprendizaje** — para entender cómo funciona un sistema operativo desde abajo.
-
-## Los orígenes: el Club del Cybercirujeo
-
-Todo empezó antes de que Cybercirujas tuviera nombre. En 2019, Deadguy, Soldán y H encontraron en la calle unas viejas computadoras 486, decidieron refaccionarlas y les cargaron videojuegos retro. Ese impulso inicial —rescatar lo viejo, darle vida y compartirlo— es inseparable de la práctica del retrocómputo. El Club del Cybercirujeo se formalizó en el Teatro Mandril de Buenos Aires, donde el colectivo de trabajadores del teatro y los futuros Cybercirujas crearon una sala de videojuegos retro de acceso comunitario.
-
-La célula de Córdoba, una de las más activas del movimiento, está mayoritariamente formada por gente de sistemas: la combinación de cultura técnica y vocación comunitaria es parte de su identidad desde el inicio.
 
 ## La PDC32 y la PDC3: las computadoras que desafían todo
 
@@ -1549,7 +1541,7 @@ Ver subforo en: <https://cybercirujas.rebelion.digital/foro/>
 
 **Para límites del hardware moderno:** si tenés una máquina con Pentium 4 y 512 MB de RAM, el foro tiene un hilo específico sobre qué sistemas operativos funcionan bien en ese rango: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=146>
 
-## El ecosistema más amplio
+## Museos y eventos del campo
 
 El retrocómputo cyberciruja se inscribe en una red más amplia de espacios, museos y eventos que comparten la convicción de que el hardware histórico merece ser conservado, estudiado y celebrado.
 
@@ -1564,10 +1556,6 @@ Sitio: <https://museodeinformatica.org.ar>
 El primer **Vintage Computer Festival Latinoamericano** se realizará en Bahía Blanca del 24 al 26 de abril de 2026, organizado por el Museo Espacio TEC. Entrada libre y gratuita. Entre los invitados especiales: **David Crane** (cofundador de Activision, creador de Pitfall!) y **Hugo Mazer** (Czerweny Electrónica, CZ Spectrum). Incluye el concurso **Retro Game Dev** para juegos desarrollados en plataformas clásicas. Varios cybercirujas planean participar con stands y charlas.
 
 Sitio: <https://vcf.espaciotec.com.ar>
-
-**SAHTI**
-
-El Simposio Argentino de Historia, Tecnologías e Informática es el puente entre la arqueología computacional universitaria y el ecosistema cyberciruja. Sus actas anuales son la memoria escrita del campo en Argentina. Acceso abierto: <https://revistas.unlp.edu.ar/JAIIO>
 
 \newpage
 
@@ -1690,7 +1678,52 @@ El **text art** (arte ASCII o ANSI) crea imágenes usando caracteres de texto. F
 
 Ambas estéticas conviven naturalmente con el espíritu retro y hacker del movimiento.
 
-## El ecosistema más amplio
+## Videojuegos: patrimonio, emulación y escena indie
+
+El videojuego no es solo entretenimiento: es un medio de expresión, un lenguaje, una forma de crear mundos y de pensar situaciones que de otro modo serían difíciles de imaginar. La industria del videojuego comercial reproduce muchas de las lógicas que criticamos: microtransacciones, DRM, plataformas cerradas, obsolescencia deliberada.
+
+La alternativa existe y es vibrante: videojuegos libres, independientes y de distribución abierta.
+
+### Emulación: preservar el patrimonio lúdico
+
+La emulación es la práctica de hacer correr software de plataformas antiguas en hardware moderno. Es, en muchos sentidos, el retrocómputo aplicado a los videojuegos: preservar el patrimonio cultural lúdico antes de que se pierda.
+
+**Herramientas principales:**
+
+- **RetroArch:** frontend unificado que incluye emuladores para docenas de plataformas. Corre en casi cualquier hardware, incluyendo Raspberry Pi y netbooks Conectar Igualdad.
+- **MAME:** emulador especializado en máquinas arcade. El archivo de la historia del arcade.
+- **RetroPie:** distribución Linux pensada para convertir una Raspberry Pi (o una laptop vieja) en una consola retro. Compatible con Cirujantix en netbooks G4.
+
+La emulación es legal en la mayoría de los países para ROMs de sistemas que ya no tienen soporte comercial activo.
+
+### Videojuegos nativos Linux gratuitos
+
+Muchos juegos funcionan de forma nativa en Linux, sin emulación ni Steam/Proton:
+
+- **0 A.D.** — estrategia en tiempo real de código abierto.
+- **SuperTuxKart** — juego de carreras con personajes del software libre.
+- **Xonotic** — shooter en primera persona muy completo y libre.
+- **Battle for Wesnoth** — estrategia por turnos con campaña larga.
+- **Teeworlds/DDraceNetwork** — plataforma 2D multijugador, muy activo.
+- **OpenRA** — reconstrucción libre de los clásicos de Command & Conquer.
+
+Ver el hilo del foro con catálogo de videojuegos nativos gratuitos para Linux: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=479>
+
+### Videojuegos indie argentinos
+
+Argentina tiene una escena de desarrollo de videojuegos independientes notable. En el Tercer Encuentro Federal (2025) se convocó específicamente a videojuegos argentinos independientes. El motor **Godot Engine** es el favorito de la escena indie libre: completamente de código abierto, muy capaz, y con comunidad activa en español.
+
+> **[TAREA COMUNIDAD]** Se necesita una lista curada de videojuegos argentinos indie libres o gratuitos para incluir aquí. Si conocés proyectos, publicalos en el foro o comunicate con la comunidad.
+
+### Cómo armar una LAN party con netbooks recuperadas
+
+Con netbooks recuperadas de Conectar Igualdad o laptops de reparatona, se puede organizar una LAN party completamente con hardware y software libre:
+
+**Lo que necesitás:** 4 o más netbooks/laptops con Linux, un router o switch, juegos con modo multijugador en red local (0 A.D., Teeworlds, Xonotic, OpenRA), y una zapatilla larga para cargar todo.
+
+**El proceso:** conectar todos los equipos a la misma red local (WiFi o cable); en 0 A.D., uno crea la partida como anfitrión y el resto se une ingresando la IP del anfitrión. Este formato funciona muy bien en ferias y encuentros Cyberciruja: convoca a infancias y jóvenes que de otra manera no participarían, y demuestra que el software libre también puede ser divertido.
+
+## Red de colectivos y comunidades
 
 El arte electrónico cyberciruja no existe en el vacío: se nutre de una red de colectivos, células y comunidades que comparten intereses y se potencian mutuamente.
 
@@ -1705,66 +1738,6 @@ El arte electrónico cyberciruja no existe en el vacío: se nutre de una red de 
 - Subforo Arte electrónico del foro Cyberciruja (demoscene, pixel art, chiptune, text art): <https://cybercirujas.rebelion.digital/foro/>
 - Blog: <https://cybercirujas.sutty.nl>
 - Instagram: [@cybercirujas.club](https://instagram.com/cybercirujas.club), [@cybercirujas.cba](https://instagram.com/cybercirujas.cba), [@hackfunrosario](https://instagram.com/hackfunrosario)
-
-\newpage
-
-# Videojuegos libres e independientes
-
-## El videojuego como práctica cultural
-
-El videojuego no es solo entretenimiento: es un medio de expresión, un lenguaje, una forma de crear mundos y de pensar situaciones que de otro modo serían difíciles de imaginar. La industria del videojuego commercial reproduce muchas de las lógicas que criticamos: microtransacciones, DRM, plataformas cerradas, obsolescencia deliberada.
-
-La alternativa existe y es vibrante: **videojuegos libres, independientes y de distribución abierta**.
-
-## Emulación: dar vida a lo que ya no tiene soporte
-
-La emulación es la práctica de hacer correr software de plataformas antiguas en hardware moderno. Es, en muchos sentidos, el retrocómputo aplicado a los videojuegos: preservar el patrimonio cultural lúdico antes de que se pierda.
-
-**Herramientas principales:**
-
-- **RetroArch:** frontend unificado que incluye emuladores para docenas de plataformas. Corren en casi cualquier hardware, incluyendo Raspberry Pi y netbooks Conectar Igualdad.
-- **MAME:** emulador especializado en máquinas arcade. El archivo de la historia del arcade.
-- **RetroPie:** distribución Linux pensada para convertir una Raspberry Pi (o una laptop vieja) en una consola retro. Compatible con Cirujantix en netbooks G4.
-
-La emulación es legal en la mayoría de los países para ROMs de sistemas que ya no tienen soporte comercial activo.
-
-## Videojuegos nativos Linux gratuitos
-
-Muchos juegos funcionan de forma nativa en Linux, sin necesidad de emulación ni de Steam/Proton:
-
-- **0 A.D.** — estrategia en tiempo real de código abierto.
-- **SuperTuxKart** — juego de carreras con personajes del software libre.
-- **Xonotic** — shooter en primera persona muy completo y libre.
-- **Battle for Wesnoth** — estrategia por turnos con campaña larga.
-- **Teeworlds/DDraceNetwork** — plataforma 2D multijugador, muy activo.
-- **OpenRA** — reconstrucción libre de los clásicos de Command & Conquer.
-
-Ver el hilo del foro con catálogo de videojuegos nativos gratuitos para Linux: <https://cybercirujas.rebelion.digital/foro/viewtopic.php?t=479>
-
-## Videojuegos indie argentinos
-
-Argentina tiene una escena de desarrollo de videojuegos independientes notable. En el Tercer Encuentro Federal (2025) se convocó específicamente a videojuegos argentinos independientes.
-
-El motor **Godot Engine** es el favorito de la escena indie libre: es completamente de código abierto, muy capaz, y tiene una comunidad activa en español.
-
-> **[TAREA COMUNIDAD]** Se necesita una lista curada de videojuegos argentinos indie libres o gratuitos para incluir aquí. Si conocés proyectos, publicalos en el foro o comunicate con la comunidad.
-
-## Cómo armar una LAN party con netbooks recuperadas
-
-Una LAN party es una reunión para jugar en red local. Con netbooks recuperadas de Conectar Igualdad o laptops de reparatona, se puede organizar una LAN party completamente con hardware y software libre:
-
-**Lo que necesitás:**
-- 4 o más netbooks/laptops funcionando con Linux.
-- Un router o switch para conectarlas en red local.
-- Juegos con modo multijugador local en red (0 A.D., Teeworlds, Xonotic, OpenRA).
-- Una zapatilla larga para cargar todo.
-
-**El proceso:**
-1. Conectar todos los equipos a la misma red local (WiFi o cable).
-2. En 0 A.D., uno crea la partida como anfitrión; el resto se une ingresando la IP del anfitrión.
-3. Jugar.
-
-Este formato funciona muy bien en ferias, reparatones y encuentros Cyberciruja: convoca a infancias y jóvenes que de otra manera no participarían, y demuestra que el software libre también puede ser divertido.
 
 \newpage
 
@@ -1833,6 +1806,8 @@ El proyecto Tikezin demostró algo que parecía imposible: que una impresora té
 
 **Cacharreo**: práctica de exploración, experimentación y modificación de hardware o software sin miedo a romper lo que ya está roto. Actitud central del movimiento Cyberciruja.
 
+**Circuit bending**: modificación creativa de circuitos electrónicos (juguetes, instrumentos, consolas) para producir sonidos o visuales inesperados. Práctica artística que cruza la electrónica con la experimentación sonora.
+
 **CCFL** (*Cold Cathode Fluorescent Lamp*): tecnología de iluminación de pantallas LCD antigua. Fue reemplazada por LEDs. Las pantallas CCFL pueden convertirse a LED con kits de conversión.
 
 **Célula**: grupo local autogestionado que comparte la filosofía de Cybercirujas y organiza actividades en su territorio.
@@ -1857,11 +1832,15 @@ El proyecto Tikezin demostró algo que parecía imposible: que una impresora té
 
 **Dual boot**: configuración en la que dos sistemas operativos conviven en el mismo disco y el usuario elige cuál usar al encender la máquina.
 
-**eDP** (*Embedded DisplayPort*): interfaz de video moderna para pantallas de laptops. Con una controladora eDP es posible convertir una pantalla de laptop en un monitor independiente.
+**eDP** (*Embedded DisplayPort*): interfaz de video moderna para pantallas de laptops.
+
+**ESP32**: microcontrolador de bajo costo con WiFi y Bluetooth integrados, fabricado por Espressif. Muy popular en proyectos de cacharreo y hardware abierto. La Ventilastation usa un ESP32 como corazón de su sistema. Con una controladora eDP es posible convertir una pantalla de laptop en un monitor independiente.
 
 **/e/OS** (ahora Murena OS): distribución Android sin servicios de Google, mantenida por la organización /e/Foundation. Enfocada en privacidad y facilidad de uso.
 
 **F-Droid**: tienda de aplicaciones de código abierto para Android. Alternativa libre a Google Play.
+
+**FRP lock** (*Factory Reset Protection*): mecanismo de seguridad de Android que, tras un reseteo de fábrica, exige la contraseña de la cuenta de Google original antes de permitir configurar el dispositivo. Puede dejar un celular inutilizable si el vendedor no lo desactivó antes.
 
 **Fanzine**: publicación autogestionada, de circulación libre, producida sin intermediarios ni permisos. Forma de comunicación DIY.
 
