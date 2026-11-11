@@ -1,7 +1,7 @@
 # Plan de trabajo — Manual del buen Cyberciruja v2
 
-**Estado:** implementado en `fuentes/manual_cyberciruja.md`
-**Última actualización:** abril 2026
+**Estado:** fuente en `fuentes/capitulos/`. Edición 2026.11.
+**Última actualización:** noviembre 2026
 
 ---
 
@@ -9,6 +9,7 @@
 
 ```
 Manifiesto (sin número)
+Cómo usar este manual (sin número)
 
 PARTE 1 — El movimiento Cyberciruja
   Cap 1.  ¿Qué es Cybercirujas?
@@ -41,6 +42,7 @@ Apéndices
   A. Glosario (~45 términos)
   B. Preguntas frecuentes
   C. Recursos y contactos
+Créditos y agradecimientos (sin número)
 ```
 
 ---

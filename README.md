@@ -8,14 +8,13 @@ Licencia: CC0 — dominio público. Copiá, modificá, redistribuí libremente.
 
 ```
 fuentes/
-  manual_cyberciruja.md   ← fuente del libro (editá acá)
-  generar_manual.sh       ← genera PDF y EPUB
+  capitulos/            ← un markdown por capítulo (editá acá)
+  EDICION               ← número de edición, por ejemplo 2026.11
+  generar_manual.sh     ← genera PDF y EPUB
 
-output/
-  manual_cyberciruja.pdf
-  manual_cyberciruja.epub
+output/                 ← PDF y EPUB generados (no se versionan)
 
-referencias/              ← documentos previos usados como insumo
+referencias/            ← insumos locales de trabajo (no se versionan)
 ```
 
 ## Generar el libro
@@ -23,6 +22,8 @@ referencias/              ← documentos previos usados como insumo
 ```bash
 bash fuentes/generar_manual.sh
 ```
+
+Cada compilación imprime un sello con la edición, la fecha y el commit. Si hay cambios sin commit, el sello suma `+local`. Para publicar una edición nueva, cambiá el número en `fuentes/EDICION` y volvé a generar.
 
 ### Dependencias (Ubuntu/Debian)
 
