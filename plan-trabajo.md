@@ -35,8 +35,9 @@ PARTE 3 — Recircular, reparar, recuperar
 PARTE 4 — Cacharreo, arte y cultura Cyberciruja
   Cap 16. El cacharreo como práctica
   Cap 17. Retrocómputo
-  Cap 18. Arte electrónico y videojuegos    ← fusión de ex-Cap 18 + ex-Cap 19
-  Cap 19. Fanzines                          ← ex-Cap 20
+  Cap 18. Arte electrónico
+  Cap 19. Videojuegos libres e independientes
+  Cap 20. Fanzines
 
 Apéndices
   A. Glosario (~45 términos)
@@ -87,7 +88,7 @@ Genera `output/manual_cyberciruja.pdf` y `output/manual_cyberciruja.epub`.
 ## Correcciones editoriales aplicadas (abril 2026)
 
 ### Estructura
-- **Fusión Cap 18 + Cap 19:** Videojuegos integrado como sección de Arte electrónico. Fanzines pasó a ser Cap 19.
+- **Fusión Cap 18 + Cap 19 (revertida en noviembre 2026):** en abril, Videojuegos se integró como sección de Arte electrónico y Fanzines pasó a Cap 19. En noviembre 2026 se separaron de nuevo para que el índice nombre las dos prácticas: Cap 18 Arte electrónico, Cap 19 Videojuegos, Cap 20 Fanzines.
 - **Eliminado duplicado de origen:** historia de las 486 en la calle quitada de Cap 17; referencia cruzada a Cap 1.
 - **Eliminado duplicado del Desafío Retrocómputo:** mención simplificada en Cap 16; desarrollo completo en Cap 17.
 - **Eliminado duplicado de SAHTI:** explicado en sección SAMCA de Cap 17; eliminado de "Museos y eventos del campo".
@@ -128,7 +129,7 @@ Estas mejoras surgieron de la revisión editorial de abril 2026 y aún no están
 Estas secciones están escritas con contenido base pero esperan enriquecimiento colectivo:
 
 - **Cap 11 (Desbloqueo):** revisar y actualizar tabla de generaciones de netbooks. Guía oficial PBA disponible en el foro (t=476).
-- **Cap 18 (Arte electrónico y videojuegos):** lista curada de videojuegos argentinos indie libres o gratuitos.
+- **Cap 19 (Videojuegos libres e independientes):** lista curada de videojuegos argentinos indie libres o gratuitos.
 - **Revisión técnica:** caps de Parte 3 revisados por referentes con experiencia directa.
 - **Material visual:** fotos, ilustraciones, folletos y escaneos de fanzines para una versión posterior.
 

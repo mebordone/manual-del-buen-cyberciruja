@@ -24,7 +24,7 @@ La edición y la fecha de compilación están en la portada. Si leés una versi�
 
 **Parte 3 — Recircular, reparar, recuperar.** Del diagnóstico de una máquina al descarte responsable. Los primeros capítulos son para cualquiera. Desbloqueo, instalación de Linux y celulares piden más mano. Conviene tener un equipo adelante.
 
-**Parte 4 — Cacharreo, arte y cultura.** Qué se puede crear con hardware recuperado: proyectos, retrocómputo, arte, fanzines. Se lee por gusto, sin nivel técnico previo.
+**Parte 4 — Cacharreo, arte y cultura.** Qué se puede crear con hardware recuperado: proyectos, retrocómputo, arte, videojuegos, fanzines. Se lee por gusto, sin nivel técnico previo.
 
 Al final hay un glosario, preguntas frecuentes y una lista de recursos y contactos.
 
