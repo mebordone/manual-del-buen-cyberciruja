@@ -2,7 +2,7 @@
 
 # Apéndice B: Preguntas frecuentes {.unnumbered}
 
-## Sobre Cybercirujas
+## Sobre Cybercirujas {.unnumbered}
 
 **¿Qué son los Cybercirujas?**
 Cybercirujas es un colectivo y movimiento social que lucha contra la obsolescencia programada, promoviendo la recuperación, reparación y reutilización de dispositivos tecnológicos en desuso. Busca reducir el impacto ambiental de los residuos electrónicos y la brecha digital a través de la acción comunitaria y el software libre.
@@ -16,7 +16,7 @@ Viniendo a la Olla Popular Cyberciruja de tu ciudad, uniéndote al grupo de Tele
 **¿Puedo organizar una célula en mi ciudad?**
 Sí. No hace falta permiso de nadie. Solo hace falta el deseo de hacerlo y conectarse a la red para no estar solos. Ver Capítulo 2.
 
-## Sobre la Olla Popular de Hardware
+## Sobre la Olla Popular de Hardware {.unnumbered}
 
 **¿Cuándo es la olla en Córdoba?**
 El último sábado de cada mes, de 9 a 13 horas, en la Feria Agroecológica de la UNC (Ciudad Universitaria).
@@ -33,7 +33,7 @@ No contamos con transporte para recoger donaciones. Si no podés transportarlo v
 **¿Qué pasa con lo que queda sin dueño?**
 Lo recoge un camión de la municipalidad de Córdoba para el tratamiento de residuos electrónicos.
 
-## Sobre residuos electrónicos
+## Sobre residuos electrónicos {.unnumbered}
 
 **¿Dónde puedo llevar mis residuos electrónicos si no puedo ir a la feria?**
 La opción más segura son los Centros de Transferencia de Residuos (CTR):
@@ -50,7 +50,7 @@ Algunos CPC suelen recibir electrónicos o pilas, pero no siempre hay contenedor
 **¿Puedo tirar la computadora vieja a la basura común?**
 No. Las computadoras contienen materiales contaminantes (plomo, mercurio, cadmio) que no deben ir al relleno sanitario. Llevala a un punto de recolección habilitado o a la olla.
 
-## Sobre reparaciones
+## Sobre reparaciones {.unnumbered}
 
 **¿Hacen reparaciones como colectivo?**
 No. La olla popular no es un espacio de reparación. Las reparaciones ocurren en la reparatona, y son de autoreparación acompañada: la persona trabaja su propio equipo con acompañamiento técnico.
@@ -61,7 +61,7 @@ Como colectivo no ofrecemos ese servicio, pero en la comunidad hay personas con 
 **¿Instalan Linux en cualquier dispositivo?**
 Intentamos instalar Linux en dispositivos donde es factible. Si el equipo es muy viejo, evaluamos qué distribución liviana puede funcionar. Si no hay solución posible, lo orientamos hacia el circuito de RAEE.
 
-## Sobre participación
+## Sobre participación {.unnumbered}
 
 **¿Puedo colaborar sin saber de computadoras?**
 Absolutamente. La olla necesita personas para la mesa de recepción, para explicar cómo funciona el evento, para difundir, para registrar, para organizar. Muchas de las tareas más importantes no son técnicas.
@@ -72,7 +72,7 @@ Escribinos por Telegram o Instagram. Nos gusta colaborar con otras organizacione
 **¿Puedo cambiar un dispositivo donado por otro que funcione mejor?**
 No hay intercambios directos. Pero podés traer algo que no usás y llevarte algo que sí necesitás, sin que sean necesariamente equivalentes.
 
-## Sobre Linux y software
+## Sobre Linux y software {.unnumbered}
 
 **¿Qué versión de Linux recomiendan?**
 Depende del hardware. Para equipos modernos: Ubuntu 24.04 LTS. Para equipos modestos: Linux Mint XFCE. Para equipos muy viejos: MX Linux o AntiX. Para netbooks Conectar Igualdad G1/G2/G3: Cirujantix.

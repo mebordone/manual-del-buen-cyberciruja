@@ -21,6 +21,9 @@ header-includes:
   - \usepackage{titlesec}
   - \titleformat{\chapter}[hang]{\Huge\bfseries\color{cybergreen}}{\thechapter.}{12pt}{\Huge\bfseries\color{cybergreen}}
   - \titleformat{\section}[hang]{\Large\bfseries\color{cybergreen}}{\thesection}{1em}{}
+  - \usepackage{tocloft}
+  - \setlength{\cftsecnumwidth}{2.5em}
+  - \setlength{\cftsubsecnumwidth}{3.8em}
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
   - \fancyhf{}
