@@ -47,6 +47,13 @@ sudo apt install pandoc texlive-xetex texlive-latex-recommended \
   fonts-dejavu
 ```
 
+### Dependencias (Fedora 45)
+
+```bash
+sudo dnf install pandoc-cli texlive texlive-tocloft\
+ texlive-babel-spanish dejavu-sans-fonts
+```
+
 ## Estructura del repo
 
 ```
